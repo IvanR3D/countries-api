@@ -1,0 +1,2330 @@
+[
+  {
+    "name": "Afghanistan",
+    "flagImage": "flags/afghanistan.jpg",
+    "capital": "Kabul",
+    "currency": "Afghan Afghani (AFN)",
+    "description": "A landlocked country in South Asia known for its rugged mountains and turbulent history.",
+    "facts": [
+      "Population: 38.9 million",
+      "Dominated by the Hindu Kush mountain range"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Albania",
+    "flagImage": "flags/albania.jpg",
+    "capital": "Tirana",
+    "currency": "Albanian Lek (ALL)",
+    "description": "A country in Southeast Europe, known for its rich cultural heritage and stunning Adriatic coastline.",
+    "facts": [
+      "Population: 2.9 million",
+      "Birthplace of the Albanian Renaissance"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Germany",
+    "flagImage": "flags/germany.jpg",
+    "capital": "Berlin",
+    "currency": "Euro (EUR)",
+    "description": "A Western European country with a rich history, known for its beer, cars, and economic powerhouse.",
+    "facts": [
+      "Population: 83.2 million",
+      "World's fourth-largest economy"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Andorra",
+    "flagImage": "flags/andorra.jpg",
+    "capital": "Andorra la Vella",
+    "currency": "Euro (EUR)",
+    "description": "A small principality situated between France and Spain in the Pyrenees mountains.",
+    "facts": [
+      "Population: 77,265",
+      "One of the world's highest life expectancies"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Angola",
+    "flagImage": "flags/angola.jpg",
+    "capital": "Luanda",
+    "currency": "Angolan Kwanza (AOA)",
+    "description": "A country in southwestern Africa, rich in natural resources and diverse landscapes.",
+    "facts": [
+      "Population: 32.9 million",
+      "Major producer of oil and diamonds"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "flagImage": "flags/antigua-and-barbuda.jpg",
+    "capital": "St. John's",
+    "currency": "East Caribbean Dollar (XCD)",
+    "description": "A twin-island nation in the Caribbean Sea, known for its stunning beaches and vibrant culture.",
+    "facts": [
+      "Population: 97,928",
+      "Gained independence from the United Kingdom in 1981"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Saudi Arabia",
+    "flagImage": "flags/saudi-arabia.jpg",
+    "capital": "Riyadh",
+    "currency": "Saudi Riyal (SAR)",
+    "description": "A sovereign Arab state in Western Asia, known for its vast deserts and as the birthplace of Islam.",
+    "facts": [
+      "Population: 34.8 million",
+      "Home to the holiest sites in Islam, Mecca and Medina"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Algeria",
+    "flagImage": "flags/algeria.jpg",
+    "capital": "Algiers",
+    "currency": "Algerian Dinar (DZD)",
+    "description": "A country in North Africa, with a rich history and diverse landscapes ranging from the Sahara desert to the Mediterranean coast.",
+    "facts": [
+      "Population: 43.9 million",
+      "Africa's largest country by land area"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Argentina",
+    "flagImage": "flags/argentina.jpg",
+    "capital": "Buenos Aires",
+    "currency": "Argentine Peso (ARS)",
+    "description": "A vast country in South America, known for its natural wonders, tango, and world-class wine.",
+    "facts": [
+      "Population: 45.2 million",
+      "Home to the highest and lowest points in the Southern Hemisphere"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Armenia",
+    "flagImage": "flags/armenia.jpg",
+    "capital": "Yerevan",
+    "currency": "Armenian Dram (AMD)",
+    "description": "A country in the South Caucasus region, with a rich cultural heritage and stunning landscapes.",
+    "facts": [
+      "Population: 2.9 million",
+      "One of the oldest Christian nations in the world"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Australia",
+    "flagImage": "flags/australia.jpg",
+    "capital": "Canberra",
+    "currency": "Australian Dollar (AUD)",
+    "description": "A country and continent, known for its unique wildlife, stunning beaches, and vibrant cities.",
+    "facts": [
+      "Population: 25.7 million",
+      "World's sixth-largest country by land area"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Austria",
+    "flagImage": "flags/austria.jpg",
+    "capital": "Vienna",
+    "currency": "Euro (EUR)",
+    "description": "A landlocked country in Central Europe, known for its stunning Alpine scenery, rich cultural heritage, and classical music.",
+    "facts": [
+      "Population: 9.0 million",
+      "Birthplace of famous composers like Mozart and Beethoven"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Azerbaijan",
+    "flagImage": "flags/azerbaijan.jpg",
+    "capital": "Baku",
+    "currency": "Azerbaijani Manat (AZN)",
+    "description": "A country in the Caucasus region, with a rich history, diverse landscapes, and abundant natural resources.",
+    "facts": [
+      "Population: 10.1 million",
+      "Known for its ancient petroglyphs and mud volcanoes"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bahamas",
+    "flagImage": "flags/bahamas.jpg",
+    "capital": "Nassau",
+    "currency": "Bahamian Dollar (BSD)",
+    "description": "An archipelagic state in the West Indies, known for its beautiful beaches, coral reefs, and luxury resorts.",
+    "facts": [
+      "Population: 393,248",
+      "Gained independence from the United Kingdom in 1973"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Bangladesh",
+    "flagImage": "flags/bangladesh.jpg",
+    "capital": "Dhaka",
+    "currency": "Bangladeshi Taka (BDT)",
+    "description": "A country in South Asia, known for its rich cultural heritage, dense population, and the world's longest natural beach.",
+    "facts": [
+      "Population: 164.7 million",
+      "Home to the Sundarbans, the largest mangrove forest in the world"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Barbados",
+    "flagImage": "flags/barbados.jpg",
+    "capital": "Bridgetown",
+    "currency": "Barbadian Dollar (BBD)",
+    "description": "A Caribbean island nation known for its beautiful beaches, coral reefs, and vibrant culture.",
+    "facts": [
+      "Population: 287,375",
+      "Birthplace of legendary singer Rihanna"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Bahrain",
+    "flagImage": "flags/bahrain.jpg",
+    "capital": "Manama",
+    "currency": "Bahraini Dinar (BHD)",
+    "description": "A small island country in the Persian Gulf, known for its pearl industry and financial hub.",
+    "facts": [
+      "Population: 1.7 million",
+      "One of the most densely populated countries in the world"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Belgium",
+    "flagImage": "flags/belgium.jpg",
+    "capital": "Brussels",
+    "currency": "Euro (EUR)",
+    "description": "A country in Western Europe, known for its medieval cities, delicious cuisine, and rich history.",
+    "facts": [
+      "Population: 11.6 million",
+      "Home to the European Union and NATO headquarters"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Belize",
+    "flagImage": "flags/belize.jpg",
+    "capital": "Belmopan",
+    "currency": "Belize Dollar (BZD)",
+    "description": "A country on the northeastern coast of Central America, known for its diverse ecosystems, Mayan ruins, and vibrant culture.",
+    "facts": [
+      "Population: 416,598",
+      "Home to the second-largest barrier reef in the world"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Benin",
+    "flagImage": "flags/benin.jpg",
+    "capital": "Porto-Novo",
+    "currency": "West African CFA Franc (XOF)",
+    "description": "A country in West Africa, known for its vibrant culture, voodoo traditions, and diverse wildlife.",
+    "facts": [
+      "Population: 12.1 million",
+      "Birthplace of the former Kingdom of Dahomey"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Belarus",
+    "flagImage": "flags/belarus.jpg",
+    "capital": "Minsk",
+    "currency": "Belarusian Ruble (BYN)",
+    "description": "A landlocked country in Eastern Europe, known for its rich history, national parks, and cultural traditions.",
+    "facts": [
+      "Population: 9.3 million",
+      "Home to the Belovezhskaya Pushcha, one of the last remaining parts of the vast Bialowieza Forest"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Myanmar (Burma)",
+    "flagImage": "flags/myanmar.jpg",
+    "capital": "Naypyidaw",
+    "currency": "Burmese Kyat (MMK)",
+    "description": "A country in Southeast Asia, known for its ancient temples, diverse ethnic groups, and rich cultural heritage.",
+    "facts": [
+      "Population: 54.4 million",
+      "Home to the ancient city of Bagan, with over 2,000 Buddhist monuments"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bolivia",
+    "flagImage": "flags/bolivia.jpg",
+    "capital": "Sucre (constitutional), La Paz (administrative)",
+    "currency": "Bolivian Boliviano (BOB)",
+    "description": "A landlocked country in central South America, known for its diverse landscapes, indigenous cultures, and colonial architecture.",
+    "facts": [
+      "Population: 11.7 million",
+      "Home to the world's highest navigable lake, Lake Titicaca"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "flagImage": "flags/bosnia-and-herzegovina.jpg",
+    "capital": "Sarajevo",
+    "currency": "Convertible Mark (BAM)",
+    "description": "A country in the Balkans region of Southeastern Europe, known for its diverse history, natural beauty, and rich cultural heritage.",
+    "facts": [
+      "Population: 3.3 million",
+      "Home to the famous Stari Most (Old Bridge) in Mostar"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Botswana",
+    "flagImage": "flags/botswana.jpg",
+    "capital": "Gaborone",
+    "currency": "Botswana Pula (BWP)",
+    "description": "A landlocked country in Southern Africa, known for its vast wildlife reserves, the Kalahari Desert, and diamond industry.",
+    "facts": [
+      "Population: 2.4 million",
+      "Home to the Okavango Delta, one of the Seven Natural Wonders of Africa"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Brazil",
+    "flagImage": "flags/brazil.jpg",
+    "capital": "Brasília",
+    "currency": "Brazilian Real (BRL)",
+    "description": "A vast country in South America, known for its diverse landscapes, vibrant culture, and iconic landmarks like the Amazon rainforest and Christ the Redeemer statue.",
+    "facts": [
+      "Population: 212.6 million",
+      "The only Portuguese-speaking country in the Americas"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Brunei",
+    "flagImage": "flags/brunei.jpg",
+    "capital": "Bandar Seri Begawan",
+    "currency": "Brunei Dollar (BND)",
+    "description": "A sovereign state on the island of Borneo in Southeast Asia, known for its wealth from oil and gas reserves, and its unique blend of Malay and Islamic traditions.",
+    "facts": [
+      "Population: 428,962",
+      "Home to one of the world's largest residential palaces"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bulgaria",
+    "flagImage": "flags/bulgaria.jpg",
+    "capital": "Sofia",
+    "currency": "Bulgarian Lev (BGN)",
+    "description": "A country in Southeastern Europe, known for its Black Sea coastline, mountainous landscapes, and rich cultural heritage.",
+    "facts": [
+      "Population: 6.9 million",
+      "One of the oldest states in Europe, with a history dating back to the 7th century"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Burkina Faso",
+    "flagImage": "flags/burkina-faso.jpg",
+    "capital": "Ouagadougou",
+    "currency": "West African CFA Franc (XOF)",
+    "description": "A landlocked country in West Africa, known for its vibrant music, traditional architecture, and cultural festivals.",
+    "facts": [
+      "Population: 20.9 million",
+      "Home to the Sahel region, a semi-arid transition zone between the Sahara Desert and the Sudanian Savanna"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Burundi",
+    "flagImage": "flags/burundi.jpg",
+    "capital": "Gitega",
+    "currency": "Burundian Franc (BIF)",
+    "description": "A landlocked country in the Great Lakes region of East Africa, known for its scenic landscapes, wildlife, and rich cultural heritage.",
+    "facts": [
+      "Population: 11.9 million",
+      "Home to one of the largest remaining populations of mountain gorillas in the world"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Bhutan",
+    "flagImage": "flags/bhutan.jpg",
+    "capital": "Thimphu",
+    "currency": "Bhutanese Ngultrum (BTN)",
+    "description": "A landlocked country in the Eastern Himalayas, known for its Buddhist culture, stunning landscapes, and the concept of Gross National Happiness.",
+    "facts": [
+      "Population: 771,608",
+      "One of the world's most environmentally friendly countries"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Cabo Verde",
+    "flagImage": "flags/cabo-verde.jpg",
+    "capital": "Praia",
+    "currency": "Cabo Verdean Escudo (CVE)",
+    "description": "An archipelago country in the central Atlantic Ocean, known for its stunning beaches, vibrant music scene, and rich Creole culture.",
+    "facts": [
+      "Population: 555,987",
+      "Consists of 10 volcanic islands and 5 islets"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Cambodia",
+    "flagImage": "flags/cambodia.jpg",
+    "capital": "Phnom Penh",
+    "currency": "Cambodian Riel (KHR)",
+    "description": "A country in Southeast Asia, known for its ancient temples like Angkor Wat, rich cultural heritage, and tragic history under the Khmer Rouge regime.",
+    "facts": [
+      "Population: 16.7 million",
+      "Home to the Tonlé Sap, a freshwater lake and biosphere reserve"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Cameroon",
+    "flagImage": "flags/cameroon.jpg",
+    "capital": "Yaoundé",
+    "currency": "Central African CFA Franc (XAF)",
+    "description": "A country in Central Africa, known for its diverse landscapes, including beaches, deserts, mountains, and rainforests.",
+    "facts": [
+      "Population: 26.5 million",
+      "Home to over 200 different ethnic groups"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Canada",
+    "flagImage": "flags/canada.jpg",
+    "capital": "Ottawa",
+    "currency": "Canadian Dollar (CAD)",
+    "description": "A country in North America, spanning from the Atlantic to the Pacific and Arctic Oceans, known for its vast wilderness, multicultural cities, and natural resources.",
+    "facts": [
+      "Population: 37.7 million",
+      "The second-largest country in the world by total area"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Qatar",
+    "flagImage": "flags/qatar.jpg",
+    "capital": "Doha",
+    "currency": "Qatari Riyal (QAR)",
+    "description": "A sovereign state in the Middle East, known for its vast oil and gas reserves, modern architecture, and hosting of major international events.",
+    "facts": [
+      "Population: 2.8 million",
+      "Home to the Al Zubarah archaeological site, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Chad",
+    "flagImage": "flags/chad.jpg",
+    "capital": "N'Djamena",
+    "currency": "Central African CFA Franc (XAF)",
+    "description": "A landlocked country in north-central Africa, known for its diverse landscapes, including the Sahara Desert, and rich cultural heritage.",
+    "facts": [
+      "Population: 16.4 million",
+      "Home to the Ennedi Plateau, a natural and cultural UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Chile",
+    "flagImage": "flags/chile.jpg",
+    "capital": "Santiago",
+    "currency": "Chilean Peso (CLP)",
+    "description": "A country in western South America, known for its long Pacific coastline, diverse landscapes, and world-renowned wine regions.",
+    "facts": [
+      "Population: 19.1 million",
+      "Home to the Atacama Desert, one of the driest places on Earth"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "China",
+    "flagImage": "flags/china.jpg",
+    "capital": "Beijing",
+    "currency": "Renminbi (CNY)",
+    "description": "A country in East Asia, known for its rich history, cultural heritage, and as one of the world's oldest civilizations.",
+    "facts": [
+      "Population: 1.4 billion",
+      "Home to the Great Wall of China, one of the Seven Wonders of the World"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Cyprus",
+    "flagImage": "flags/cyprus.jpg",
+    "capital": "Nicosia",
+    "currency": "Euro (EUR)",
+    "description": "An island country in the Eastern Mediterranean, known for its beautiful beaches, ancient ruins, and rich cultural heritage.",
+    "facts": [
+      "Population: 1.2 million",
+      "Birthplace of the ancient Greek philosopher Zeno of Citium"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Colombia",
+    "flagImage": "flags/colombia.jpg",
+    "capital": "Bogotá",
+    "currency": "Colombian Peso (COP)",
+    "description": "A country in northwestern South America, known for its diverse landscapes, vibrant culture, and as one of the world's largest producers of coffee.",
+    "facts": [
+      "Population: 50.9 million",
+      "Home to the Ciudad Perdida (Lost City), an ancient archaeological site"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Comoros",
+    "flagImage": "flags/comoros.jpg",
+    "capital": "Moroni",
+    "currency": "Comorian Franc (KMF)",
+    "description": "An archipelagic island country in the Indian Ocean, known for its stunning beaches, volcanic landscapes, and rich cultural heritage.",
+    "facts": [
+      "Population: 869,601",
+      "One of the world's smallest and least populous nations"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "North Korea",
+    "flagImage": "flags/north-korea.jpg",
+    "capital": "Pyongyang",
+    "currency": "North Korean Won (KPW)",
+    "description": "A country in East Asia, officially known as the Democratic People's Republic of Korea, known for its authoritarian regime, nuclear program, and secrecy.",
+    "facts": [
+      "Population: 25.8 million",
+      "One of the world's most isolated and censored societies"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "South Korea",
+    "flagImage": "flags/south-korea.jpg",
+    "capital": "Seoul",
+    "currency": "South Korean Won (KRW)",
+    "description": "A country in East Asia, known for its modern cities, technological advancements, and rich cultural heritage.",
+    "facts": [
+      "Population: 51.7 million",
+      "Home to several UNESCO World Heritage Sites, including the Jongmyo Shrine"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Ivory Coast",
+    "flagImage": "flags/ivory-coast.jpg",
+    "capital": "Yamoussoukro",
+    "currency": "West African CFA Franc (XOF)",
+    "description": "A country in West Africa, known for its diverse wildlife, beautiful beaches, and as one of the world's largest producers of cocoa.",
+    "facts": [
+      "Population: 26.4 million",
+      "Home to the Tai National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Costa Rica",
+    "flagImage": "flags/costa-rica.jpg",
+    "capital": "San José",
+    "currency": "Costa Rican Colón (CRC)",
+    "description": "A country in Central America, known for its lush rainforests, diverse wildlife, and commitment to sustainable tourism.",
+    "facts": [
+      "Population: 5.1 million",
+      "One of the most environmentally-friendly countries in the world"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Croatia",
+    "flagImage": "flags/croatia.jpg",
+    "capital": "Zagreb",
+    "currency": "Croatian Kuna (HRK)",
+    "description": "A country in Southeast Europe, known for its stunning Adriatic coastline, medieval cities, and rich cultural heritage.",
+    "facts": [
+      "Population: 4.1 million",
+      "Home to the Plitvice Lakes National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Cuba",
+    "flagImage": "flags/cuba.jpg",
+    "capital": "Havana",
+    "currency": "Cuban Peso (CUP)",
+    "description": "An island country in the Caribbean Sea, known for its vibrant culture, vintage cars, and as a socialist state since the Cuban Revolution.",
+    "facts": [
+      "Population: 11.3 million",
+      "Home to the Viñales Valley, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Denmark",
+    "flagImage": "flags/denmark.jpg",
+    "capital": "Copenhagen",
+    "currency": "Danish Krone (DKK)",
+    "description": "A country in Northern Europe, known for its hygge lifestyle, historic castles, and as one of the world's most environmentally-friendly nations.",
+    "facts": [
+      "Population: 5.8 million",
+      "Home to the Jelling Mounds, Runic Stones and Church, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Dominica",
+    "flagImage": "flags/dominica.jpg",
+    "capital": "Roseau",
+    "currency": "East Caribbean Dollar (XCD)",
+    "description": "An island country in the Caribbean Sea, known for its lush rainforests, volcanic landscapes, and eco-tourism.",
+    "facts": [
+      "Population: 71,986",
+      "Home to the Morne Trois Pitons National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Ecuador",
+    "flagImage": "flags/ecuador.jpg",
+    "capital": "Quito",
+    "currency": "United States Dollar (USD)",
+    "description": "A country in northwestern South America, known for its diverse landscapes, including the Galápagos Islands and the Andes mountains.",
+    "facts": [
+      "Population: 17.4 million",
+      "Home to the historic center of Quito, a UNESCO World Heritage Site"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Egypt",
+    "flagImage": "flags/egypt.jpg",
+    "capital": "Cairo",
+    "currency": "Egyptian Pound (EGP)",
+    "description": "A country in North Africa, known for its ancient civilization, iconic pyramids, and rich cultural heritage along the Nile River.",
+    "facts": [
+      "Population: 102.3 million",
+      "Home to the ancient monuments of Memphis and its Necropolis, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "El Salvador",
+    "flagImage": "flags/el-salvador.jpg",
+    "capital": "San Salvador",
+    "currency": "United States Dollar (USD)",
+    "description": "A country in Central America, known for its beautiful beaches, ancient Mayan ruins, and as the smallest country in continental America.",
+    "facts": [
+      "Population: 6.5 million",
+      "Home to the Joya de Cerén Archaeological Site, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "United States",
+    "flagImage": "flags/eeuu.jpg",
+    "capital": "Washington, D.C.",
+    "currency": "United States Dollar (USD)",
+    "description": "A federal republic consisting of 50 states and a federal district.",
+    "facts": [
+      "World's largest economy",
+      "Population: 328.2 million"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Japan",
+    "flagImage": "flags/japan.jpg",
+    "capital": "Tokyo",
+    "currency": "Japanese Yen (JPY)",
+    "description": "An island country in East Asia.",
+    "facts": [
+      "World's third-largest economy",
+      "Population: 126.5 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "United Arab Emirates",
+    "flagImage": "flags/united-arab-emirates.jpg",
+    "capital": "Abu Dhabi",
+    "currency": "United Arab Emirates Dirham (AED)",
+    "description": "A federation of seven emirates in the Middle East, known for its modern cities, luxury, and as a major hub for tourism and business.",
+    "facts": [
+      "Population: 9.9 million",
+      "Home to the Burj Khalifa, the tallest building in the world"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Eritrea",
+    "flagImage": "flags/eritrea.jpg",
+    "capital": "Asmara",
+    "currency": "Eritrean Nakfa (ERN)",
+    "description": "A country in the Horn of Africa, known for its diverse landscapes, ancient historical sites, and unique architecture.",
+    "facts": [
+      "Population: 3.5 million",
+      "Home to the Qohaito Archaeological Site, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Slovakia",
+    "flagImage": "flags/slovakia.jpg",
+    "capital": "Bratislava",
+    "currency": "Euro (EUR)",
+    "description": "A landlocked country in Central Europe, known for its medieval towns, castles, and stunning natural landscapes.",
+    "facts": [
+      "Population: 5.5 million",
+      "Home to the Banska Stiavnica, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Slovenia",
+    "flagImage": "flags/slovenia.jpg",
+    "capital": "Ljubljana",
+    "currency": "Euro (EUR)",
+    "description": "A country in Southern Europe, known for its beautiful natural scenery, including the Julian Alps and the Karst Plateau.",
+    "facts": [
+      "Population: 2.1 million",
+      "Home to the Škocjan Caves, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Spain",
+    "flagImage": "flags/spain.jpg",
+    "capital": "Madrid",
+    "currency": "Euro (EUR)",
+    "description": "A country in Southwestern Europe, known for its rich cultural heritage, vibrant cities, stunning architecture, and world-renowned cuisine.",
+    "facts": [
+      "Population: 47.3 million",
+      "Home to several UNESCO World Heritage Sites, including the Alhambra and the Seville Cathedral"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Estonia",
+    "flagImage": "flags/estonia.jpg",
+    "capital": "Tallinn",
+    "currency": "Euro (EUR)",
+    "description": "A country in Northern Europe, known for its well-preserved medieval cities, forests, and as one of the most tech-savvy nations in the world.",
+    "facts": [
+      "Population: 1.3 million",
+      "Home to the Struve Geodetic Arc, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Ethiopia",
+    "flagImage": "flags/ethiopia.jpg",
+    "capital": "Addis Ababa",
+    "currency": "Ethiopian Birr (ETB)",
+    "description": "A country in the Horn of Africa, known for its ancient culture, stunning landscapes, and as the birthplace of coffee.",
+    "facts": [
+      "Population: 114.9 million",
+      "Home to the Rock-Hewn Churches of Lalibela, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Philippines",
+    "flagImage": "flags/philippines.jpg",
+    "capital": "Manila",
+    "currency": "Philippine Peso (PHP)",
+    "description": "An archipelagic country in Southeast Asia, known for its beautiful beaches, diverse flora and fauna, and rich cultural heritage.",
+    "facts": [
+      "Population: 109.6 million",
+      "Home to the Tubbataha Reefs Natural Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Finland",
+    "flagImage": "flags/finland.jpg",
+    "capital": "Helsinki",
+    "currency": "Euro (EUR)",
+    "description": "A country in Northern Europe, known for its vast forests, thousands of lakes, and as a leader in education and innovation.",
+    "facts": [
+      "Population: 5.5 million",
+      "Home to the Kvarken Archipelago, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Fiji",
+    "flagImage": "flags/fiji.jpg",
+    "capital": "Suva",
+    "currency": "Fijian Dollar (FJD)",
+    "description": "An island country in the South Pacific, known for its stunning beaches, coral reefs, and rich cultural heritage.",
+    "facts": [
+      "Population: 896,445",
+      "Home to the Levuka Historical Port Town, a UNESCO World Heritage Site"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "France",
+    "flagImage": "flags/france.jpg",
+    "capital": "Paris",
+    "currency": "Euro (EUR)",
+    "description": "A transcontinental country spanning Western Europe and several overseas regions, known for its rich cultural heritage, world-renowned cuisine, and iconic landmarks like the Eiffel Tower.",
+    "facts": [
+      "Population: 67.1 million",
+      "Home to several UNESCO World Heritage Sites, including the Banks of the Seine in Paris"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Gabon",
+    "flagImage": "flags/gabon.jpg",
+    "capital": "Libreville",
+    "currency": "Central African CFA Franc (XAF)",
+    "description": "A country in West-Central Africa, known for its diverse wildlife, extensive rainforests, and oil reserves.",
+    "facts": [
+      "Population: 2.2 million",
+      "Home to the Ecosystem and Relict Cultural Landscape of Lopé-Okanda, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Gambia",
+    "flagImage": "flags/gambia.jpg",
+    "capital": "Banjul",
+    "currency": "Gambian Dalasi (GMD)",
+    "description": "A country in West Africa, known for its diverse landscapes, including beaches, mangrove swamps, and wildlife reserves.",
+    "facts": [
+      "Population: 2.4 million",
+      "Home to the James Island and Related Sites, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Georgia",
+    "flagImage": "flags/georgia.jpg",
+    "capital": "Tbilisi",
+    "currency": "Georgian Lari (GEL)",
+    "description": "A country in the Caucasus region of Eurasia, known for its stunning mountain landscapes, ancient history, and unique wine culture.",
+    "facts": [
+      "Population: 3.7 million",
+      "Home to the Historical Monuments of Mtskheta, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Ghana",
+    "flagImage": "flags/ghana.jpg",
+    "capital": "Accra",
+    "currency": "Ghanaian Cedi (GHS)",
+    "description": "A country in West Africa, known for its rich cultural heritage, ancient forts and castles, and as one of the most stable democracies in the region.",
+    "facts": [
+      "Population: 31.1 million",
+      "Home to the Forts and Castles of Ghana, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Grenada",
+    "flagImage": "flags/grenada.jpg",
+    "capital": "St. George's",
+    "currency": "East Caribbean Dollar (XCD)",
+    "description": "An island country in the Caribbean Sea, known for its spice plantations, beautiful beaches, and as the 'Spice Isle' of the Caribbean.",
+    "facts": [
+      "Population: 112,523",
+      "Home to several well-preserved colonial forts and buildings"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Greece",
+    "flagImage": "flags/greece.jpg",
+    "capital": "Athens",
+    "currency": "Euro (EUR)",
+    "description": "A country in Southeastern Europe, known for its ancient history, stunning islands, and as the birthplace of democracy and Western civilization.",
+    "facts": [
+      "Population: 10.7 million",
+      "Home to several UNESCO World Heritage Sites, including the Acropolis in Athens"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Guatemala",
+    "flagImage": "flags/guatemala.jpg",
+    "capital": "Guatemala City",
+    "currency": "Guatemalan Quetzal (GTQ)",
+    "description": "A country in Central America, known for its ancient Mayan ruins, colonial architecture, and diverse indigenous cultures.",
+    "facts": [
+      "Population: 17.9 million",
+      "Home to the Antigua Guatemala, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "flagImage": "flags/guinea-bissau.jpg",
+    "capital": "Bissau",
+    "currency": "West African CFA Franc (XOF)",
+    "description": "A country in West Africa, known for its diverse landscapes, including coastal areas, savannas, and rainforests.",
+    "facts": [
+      "Population: 1.9 million",
+      "Home to the Arquipélago dos Bijagós, a UNESCO Biosphere Reserve"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "flagImage": "flags/equatorial-guinea.jpg",
+    "capital": "Malabo",
+    "currency": "Central African CFA Franc (XAF)",
+    "description": "A country in Central Africa, known for its rich biodiversity, including pristine rainforests and coastal areas.",
+    "facts": [
+      "Population: 1.4 million",
+      "Home to the Monte Alen National Park, a UNESCO Biosphere Reserve"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Guinea",
+    "flagImage": "flags/guinea.jpg",
+    "capital": "Conakry",
+    "currency": "Guinean Franc (GNF)",
+    "description": "A country in West Africa, known for its diverse landscapes, including coastal areas, savannas, and rainforests.",
+    "facts": [
+      "Population: 13.1 million",
+      "Home to the Mount Nimba Strict Nature Reserve, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Guyana",
+    "flagImage": "flags/guyana.jpg",
+    "capital": "Georgetown",
+    "currency": "Guyanese Dollar (GYD)",
+    "description": "A country in the northern part of South America, known for its diverse ecosystems, including rainforests, savannas, and wetlands.",
+    "facts": [
+      "Population: 786,552",
+      "Home to the Kaieteur National Park, which includes the Kaieteur Falls"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Haiti",
+    "flagImage": "flags/haiti.jpg",
+    "capital": "Port-au-Prince",
+    "currency": "Haitian Gourde (HTG)",
+    "description": "A country in the Caribbean Sea, known for its rich cultural heritage, vibrant music, and as the first independent Caribbean nation.",
+    "facts": [
+      "Population: 11.4 million",
+      "Home to the National History Park – Citadel, Sans Souci, Ramiers, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Honduras",
+    "flagImage": "flags/honduras.jpg",
+    "capital": "Tegucigalpa",
+    "currency": "Honduran Lempira (HNL)",
+    "description": "A country in Central America, known for its diverse landscapes, including beaches, rainforests, and ancient Mayan ruins.",
+    "facts": [
+      "Population: 9.9 million",
+      "Home to the Río Plátano Biosphere Reserve, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Hungary",
+    "flagImage": "flags/hungary.jpg",
+    "capital": "Budapest",
+    "currency": "Hungarian Forint (HUF)",
+    "description": "A landlocked country in Central Europe, known for its rich history, thermal spas, and stunning architecture in cities like Budapest.",
+    "facts": [
+      "Population: 9.7 million",
+      "Home to the Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "India",
+    "flagImage": "flags/india.jpg",
+    "capital": "New Delhi",
+    "currency": "Indian Rupee (INR)",
+    "description": "A vast country in South Asia, known for its diverse cultures, ancient history, and as one of the world's oldest civilizations.",
+    "facts": [
+      "Population: 1.39 billion",
+      "Home to several UNESCO World Heritage Sites, including the Taj Mahal and the Red Fort Complex"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Indonesia",
+    "flagImage": "flags/indonesia.jpg",
+    "capital": "Jakarta",
+    "currency": "Indonesian Rupiah (IDR)",
+    "description": "An archipelagic country in Southeast Asia, known for its diverse cultures, stunning islands, and rich biodiversity.",
+    "facts": [
+      "Population: 273.5 million",
+      "Home to several UNESCO World Heritage Sites, including the Komodo National Park and the Prambanan Temple Compounds"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Iran",
+    "flagImage": "flags/iran.jpg",
+    "capital": "Tehran",
+    "currency": "Iranian Rial (IRR)",
+    "description": "A country in Western Asia, known for its ancient history, rich cultural heritage, and as one of the oldest continuous civilizations in the world.",
+    "facts": [
+      "Population: 83.9 million",
+      "Home to several UNESCO World Heritage Sites, including the Persepolis and the Golestan Palace"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Iraq",
+    "flagImage": "flags/iraq.jpg",
+    "capital": "Baghdad",
+    "currency": "Iraqi Dinar (IQD)",
+    "description": "A country in Western Asia, known for its ancient civilizations, rich history, and as the cradle of civilization.",
+    "facts": [
+      "Population: 40.2 million",
+      "Home to several UNESCO World Heritage Sites, including the Assyrian cities of Ashur and Samarra Archaeological City"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Ireland",
+    "flagImage": "flags/ireland.jpg",
+    "capital": "Dublin",
+    "currency": "Euro (EUR)",
+    "description": "An island country in the North Atlantic, known for its lush green landscapes, rich cultural heritage, and as the birthplace of literary giants like James Joyce and Oscar Wilde.",
+    "facts": [
+      "Population: 4.9 million",
+      "Home to several UNESCO World Heritage Sites, including the Archaeological Ensemble of the Bend of the Boyne"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Iceland",
+    "flagImage": "flags/iceland.jpg",
+    "capital": "Reykjavík",
+    "currency": "Icelandic Króna (ISK)",
+    "description": "An island country in the North Atlantic Ocean, known for its stunning natural landscapes, including glaciers, hot springs, and volcanic terrain.",
+    "facts": [
+      "Population: 366,425",
+      "Home to the Þingvellir National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Marshall Islands",
+    "flagImage": "flags/marshall-islands.jpg",
+    "capital": "Majuro",
+    "currency": "United States Dollar (USD)",
+    "description": "An island country in the Pacific Ocean, known for its stunning atolls, rich marine life, and as one of the world's smallest nations.",
+    "facts": [
+      "Population: 59,194",
+      "Home to the Bikini Atoll, a former nuclear test site"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Solomon Islands",
+    "flagImage": "flags/solomon-islands.jpg",
+    "capital": "Honiara",
+    "currency": "Solomon Islands Dollar (SBD)",
+    "description": "An island country in the South Pacific Ocean, known for its rich cultural heritage, diverse ecosystems, and stunning beaches.",
+    "facts": [
+      "Population: 686,884",
+      "Home to several UNESCO World Heritage Sites, including the East Rennell Island"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Israel",
+    "flagImage": "flags/israel.jpg",
+    "capital": "Jerusalem",
+    "currency": "Israeli New Shekel (ILS)",
+    "description": "A country in the Middle East, known for its ancient history, religious significance, and as the birthplace of several major world religions.",
+    "facts": [
+      "Population: 9.2 million",
+      "Home to several UNESCO World Heritage Sites, including the Old City of Jerusalem and its Walls"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Italy",
+    "flagImage": "flags/italy.jpg",
+    "capital": "Rome",
+    "currency": "Euro (EUR)",
+    "description": "A country in Southern Europe, known for its rich cultural heritage, ancient history, stunning art and architecture, and world-renowned cuisine.",
+    "facts": [
+      "Population: 60.4 million",
+      "Home to several UNESCO World Heritage Sites, including the Historic Centre of Rome and the Vatican City"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Jamaica",
+    "flagImage": "flags/jamaica.jpg",
+    "capital": "Kingston",
+    "currency": "Jamaican Dollar (JMD)",
+    "description": "An island country in the Caribbean Sea, known for its vibrant culture, reggae music, and stunning beaches.",
+    "facts": [
+      "Population: 2.9 million",
+      "Home to the Blue and John Crow Mountains, a UNESCO World Heritage Site"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Jordan",
+    "flagImage": "flags/jordan.jpg",
+    "capital": "Amman",
+    "currency": "Jordanian Dinar (JOD)",
+    "description": "A country in the Middle East, known for its ancient history, stunning desert landscapes, and iconic archaeological sites.",
+    "facts": [
+      "Population: 10.2 million",
+      "Home to the Petra, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Kazakhstan",
+    "flagImage": "flags/kazakhstan.jpg",
+    "capital": "Nur-Sultan",
+    "currency": "Kazakhstani Tenge (KZT)",
+    "description": "A country in Central Asia, known for its vast steppes, stunning mountain ranges, and as the world's largest landlocked country.",
+    "facts": [
+      "Population: 18.8 million",
+      "Home to the Mausoleum of Khoja Ahmed Yasavi, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Kenya",
+    "flagImage": "flags/kenya.jpg",
+    "capital": "Nairobi",
+    "currency": "Kenyan Shilling (KES)",
+    "description": "A country in East Africa, known for its diverse wildlife, stunning landscapes, and as a major safari destination.",
+    "facts": [
+      "Population: 53.8 million",
+      "Home to several UNESCO World Heritage Sites, including the Kenyan Lake System in the Great Rift Valley"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "flagImage": "flags/kyrgyzstan.jpg",
+    "capital": "Bishkek",
+    "currency": "Kyrgyzstani Som (KGS)",
+    "description": "A country in Central Asia, known for its stunning mountain ranges, including the Tian Shan and Pamir ranges, and nomadic traditions.",
+    "facts": [
+      "Population: 6.6 million",
+      "Home to the Silk Roads: the Routes Network of Chang'an-Tianshan Corridor, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Kiribati",
+    "flagImage": "flags/kiribati.jpg",
+    "capital": "South Tarawa",
+    "currency": "Australian Dollar (AUD)",
+    "description": "An island country in the Central Pacific Ocean, known for its low-lying atolls and as one of the world's most vulnerable nations to the effects of climate change.",
+    "facts": [
+      "Population: 119,449",
+      "Home to the Phoenix Islands Protected Area, a UNESCO World Heritage Site"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Kuwait",
+    "flagImage": "flags/kuwait.jpg",
+    "capital": "Kuwait City",
+    "currency": "Kuwaiti Dinar (KWD)",
+    "description": "A country in the Middle East, known for its vast oil reserves, modern architecture, and as one of the wealthiest nations in the world.",
+    "facts": [
+      "Population: 4.3 million",
+      "Home to the Sabriya Archaeological Site, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Laos",
+    "flagImage": "flags/laos.jpg",
+    "capital": "Vientiane",
+    "currency": "Lao Kip (LAK)",
+    "description": "A landlocked country in Southeast Asia, known for its ancient temples, rich cultural heritage, and stunning natural landscapes.",
+    "facts": [
+      "Population: 7.3 million",
+      "Home to the Town of Luang Prabang, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Lesotho",
+    "flagImage": "flags/lesotho.jpg",
+    "capital": "Maseru",
+    "currency": "Lesotho Loti (LSL)",
+    "description": "A landlocked country in Southern Africa, known for its stunning mountain landscapes, including the Maluti Mountains, and unique cultural traditions.",
+    "facts": [
+      "Population: 2.1 million",
+      "Home to the Sehlabathebe National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Latvia",
+    "flagImage": "flags/latvia.jpg",
+    "capital": "Riga",
+    "currency": "Euro (EUR)",
+    "description": "A country in the Baltic region of Northern Europe, known for its beautiful cities, rich cultural heritage, and stunning natural landscapes.",
+    "facts": [
+      "Population: 1.9 million",
+      "Home to the Historic Centre of Riga, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Lebanon",
+    "flagImage": "flags/lebanon.jpg",
+    "capital": "Beirut",
+    "currency": "Lebanese Pound (LBP)",
+    "description": "A country in the Middle East, known for its rich history, stunning Mediterranean coastline, and vibrant culture.",
+    "facts": [
+      "Population: 6.8 million",
+      "Home to the Qadisha Valley and the Forest of the Cedars of God, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Liberia",
+    "flagImage": "flags/liberia.jpg",
+    "capital": "Monrovia",
+    "currency": "Liberian Dollar (LRD)",
+    "description": "A country in West Africa, known for its lush rainforests, rich cultural heritage, and as one of the world's oldest republics.",
+    "facts": [
+      "Population: 5.1 million",
+      "Home to the Sapo National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Libya",
+    "flagImage": "flags/libya.jpg",
+    "capital": "Tripoli",
+    "currency": "Libyan Dinar (LYD)",
+    "description": "A country in North Africa, known for its ancient history, stunning Mediterranean coastline, and vast Sahara Desert.",
+    "facts": [
+      "Population: 6.9 million",
+      "Home to the Archaeological Site of Leptis Magna, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Liechtenstein",
+    "flagImage": "flags/liechtenstein.jpg",
+    "capital": "Vaduz",
+    "currency": "Swiss Franc (CHF)",
+    "description": "A landlocked country in Western Europe, known for its stunning Alpine landscapes, medieval castles, and as one of the world's smallest and wealthiest nations.",
+    "facts": [
+      "Population: 38,137",
+      "Home to the Wilten Abbey, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Lithuania",
+    "flagImage": "flags/lithuania.jpg",
+    "capital": "Vilnius",
+    "currency": "Euro (EUR)",
+    "description": "A country in the Baltic region of Northern Europe, known for its stunning medieval cities, rich cultural heritage, and stunning natural landscapes.",
+    "facts": [
+      "Population: 2.8 million",
+      "Home to the Kernavė Archaeological Site, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Luxembourg",
+    "flagImage": "flags/luxembourg.jpg",
+    "capital": "Luxembourg City",
+    "currency": "Euro (EUR)",
+    "description": "A landlocked country in Western Europe, known for its beautiful medieval towns, rich history, and as one of the world's wealthiest nations.",
+    "facts": [
+      "Population: 625,976",
+      "Home to the City of Luxembourg, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "North Macedonia",
+    "flagImage": "flags/north-macedonia.jpg",
+    "capital": "Skopje",
+    "currency": "Macedonian Denar (MKD)",
+    "description": "A landlocked country in Southeastern Europe, known for its stunning lakes, mountains, and ancient history dating back to the time of Alexander the Great.",
+    "facts": [
+      "Population: 2.1 million",
+      "Home to the Natural and Cultural Heritage of the Ohrid Region, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Madagascar",
+    "flagImage": "flags/madagascar.jpg",
+    "capital": "Antananarivo",
+    "currency": "Malagasy Ariary (MGA)",
+    "description": "An island country in the Indian Ocean, known for its unique biodiversity, stunning landscapes, and rich cultural heritage.",
+    "facts": [
+      "Population: 27.7 million",
+      "Home to the Rainforests of the Atsinanana, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Malaysia",
+    "flagImage": "flags/malaysia.jpg",
+    "capital": "Kuala Lumpur",
+    "currency": "Malaysian Ringgit (MYR)",
+    "description": "A country in Southeast Asia, known for its diverse cultures, stunning beaches, and as one of the world's most biodiverse regions.",
+    "facts": [
+      "Population: 32.7 million",
+      "Home to several UNESCO World Heritage Sites, including the Gunung Mulu National Park"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Malawi",
+    "flagImage": "flags/malawi.jpg",
+    "capital": "Lilongwe",
+    "currency": "Malawian Kwacha (MWK)",
+    "description": "A landlocked country in Southeast Africa, known for its stunning Lake Malawi, diverse wildlife, and rich cultural heritage.",
+    "facts": [
+      "Population: 19.1 million",
+      "Home to the Lake Malawi National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Maldives",
+    "flagImage": "flags/maldives.jpg",
+    "capital": "Malé",
+    "currency": "Maldivian Rufiyaa (MVR)",
+    "description": "An island country in the Indian Ocean, known for its stunning atolls, crystal-clear waters, and luxurious beach resorts.",
+    "facts": [
+      "Population: 540,544",
+      "Home to the Baa Atoll, a UNESCO Biosphere Reserve"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Mali",
+    "flagImage": "flags/mali.jpg",
+    "capital": "Bamako",
+    "currency": "West African CFA Franc (XOF)",
+    "description": "A landlocked country in West Africa, known for its ancient cities, rich cultural heritage, and stunning desert landscapes.",
+    "facts": [
+      "Population: 20.3 million",
+      "Home to the Old Towns of Djenné, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Malta",
+    "flagImage": "flags/malta.jpg",
+    "capital": "Valletta",
+    "currency": "Euro (EUR)",
+    "description": "An island country in the Mediterranean Sea, known for its rich history, stunning architecture, and vibrant culture.",
+    "facts": [
+      "Population: 441,543",
+      "Home to the City of Valletta, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Morocco",
+    "flagImage": "flags/morocco.jpg",
+    "capital": "Rabat",
+    "currency": "Moroccan Dirham (MAD)",
+    "description": "A country in North Africa, known for its stunning Sahara Desert, ancient cities, and rich cultural heritage influenced by Arab, Berber, and European traditions.",
+    "facts": [
+      "Population: 37.1 million",
+      "Home to several UNESCO World Heritage Sites, including the Medina of Fez"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Mauritius",
+    "flagImage": "flags/mauritius.jpg",
+    "capital": "Port Louis",
+    "currency": "Mauritian Rupee (MUR)",
+    "description": "An island country in the Indian Ocean, known for its stunning beaches, diverse cultures, and as a popular tourist destination.",
+    "facts": [
+      "Population: 1.3 million",
+      "Home to the Aapravasi Ghat, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Mauritania",
+    "flagImage": "flags/mauritania.jpg",
+    "capital": "Nouakchott",
+    "currency": "Mauritanian Ouguiya (MRU)",
+    "description": "A country in Northwest Africa, known for its vast Sahara Desert landscapes, ancient cities, and rich cultural heritage.",
+    "facts": [
+      "Population: 4.6 million",
+      "Home to the Banc d'Arguin National Park, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Mexico",
+    "flagImage": "flags/mexico.jpg",
+    "capital": "Mexico City",
+    "currency": "Mexican Peso (MXN)",
+    "description": "A country in North America, known for its rich cultural heritage, ancient civilizations, stunning beaches, and diverse landscapes.",
+    "facts": [
+      "Population: 126.0 million",
+      "Home to several UNESCO World Heritage Sites, including the Ancient City of Teotihuacan"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Micronesia",
+    "flagImage": "flags/micronesia.jpg",
+    "capital": "Palikir",
+    "currency": "United States Dollar (USD)",
+    "description": "A country in the Western Pacific Ocean, consisting of over 600 islands, known for its diverse cultures, stunning atolls, and rich marine life.",
+    "facts": [
+      "Population: 548,914",
+      "Home to the Pohnpei Island, part of the Carolinian Ridge Forests of Pohnpei Federated States of Micronesia"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Moldova",
+    "flagImage": "flags/moldova.jpg",
+    "capital": "Chișinău",
+    "currency": "Moldovan Leu (MDL)",
+    "description": "A landlocked country in Eastern Europe, known for its rich cultural heritage, wine production, and stunning landscapes.",
+    "facts": [
+      "Population: 2.6 million",
+      "Home to the Struve Geodetic Arc, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Monaco",
+    "flagImage": "flags/monaco.jpg",
+    "capital": "Monaco City",
+    "currency": "Euro (EUR)",
+    "description": "A sovereign city-state on the French Riviera, known for its luxury, glamour, and as a playground for the wealthy.",
+    "facts": [
+      "Population: 39,242",
+      "Home to the Prince's Palace and the Monaco Citadel, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Mongolia",
+    "flagImage": "flags/mongolia.jpg",
+    "capital": "Ulaanbaatar",
+    "currency": "Mongolian Tögrög (MNT)",
+    "description": "A landlocked country in East Asia, known for its vast steppe grasslands, nomadic culture, and as the birthplace of Genghis Khan.",
+    "facts": [
+      "Population: 3.3 million",
+      "Home to the Uvs Nuur Basin, a UNESCO World Heritage Site"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Montenegro",
+    "flagImage": "flags/montenegro.jpg",
+    "capital": "Podgorica",
+    "currency": "Euro (EUR)",
+    "description": "A country in Southeastern Europe, known for its stunning Adriatic coastline, rugged mountains, and rich cultural heritage.",
+    "facts": [
+      "Population: 628,066",
+      "Home to the Natural and Culturo-Historical Region of Kotor, a UNESCO World Heritage Site"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Mozambique",
+    "flagImage": "flags/mozambique.jpg",
+    "capital": "Maputo",
+    "currency": "Mozambican Metical (MZN)",
+    "description": "A country in Southeastern Africa, known for its stunning beaches, rich wildlife, and vibrant culture.",
+    "facts": [
+      "Population: 31.3 million",
+      "Home to the Island of Mozambique, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Namibia",
+    "flagImage": "flags/namibia.jpg",
+    "capital": "Windhoek",
+    "currency": "Namibian Dollar (NAD)",
+    "description": "A country in Southern Africa, known for its vast deserts, stunning landscapes, and rich wildlife.",
+    "facts": [
+      "Population: 2.5 million",
+      "Home to the Twyfelfontein Rock Art Site, a UNESCO World Heritage Site"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Nauru",
+    "flagImage": "flags/nauru.jpg",
+    "capital": "Yaren District",
+    "currency": "Australian Dollar (AUD)",
+    "description": "An island country in Micronesia, known for its rich phosphate deposits, and as one of the smallest nations in the world by population.",
+    "facts": [
+      "Population: 10,824",
+      "Home to the Central Plateau, a unique geological formation"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Nepal",
+    "flagImage": "flags/nepal.jpg",
+    "capital": "Kathmandu",
+    "currency": "Nepalese Rupee (NPR)",
+    "description": "A landlocked country in South Asia known for its rich culture and the Himalayan mountain range.",
+    "facts": [
+      "Home to the highest mountain in the world, Mount Everest",
+      "Population: 29.1 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Nicaragua",
+    "flagImage": "flags/nicaragua.jpg",
+    "capital": "Managua",
+    "currency": "Nicaraguan Córdoba (NIO)",
+    "description": "A country in Central America known for its volcanic landscapes, lakes, and rich biodiversity.",
+    "facts": [
+      "Largest country in Central America",
+      "Population: 6.6 million"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Niger",
+    "flagImage": "flags/niger.jpg",
+    "capital": "Niamey",
+    "currency": "West African CFA Franc (XOF)",
+    "description": "A landlocked country in West Africa, known for its vast deserts and ancient cities.",
+    "facts": [
+      "One of the hottest countries in the world",
+      "Population: 24.2 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Nigeria",
+    "flagImage": "flags/nigeria.jpg",
+    "capital": "Abuja",
+    "currency": "Nigerian Naira (NGN)",
+    "description": "The most populous country in Africa, known for its diverse cultures and natural resources.",
+    "facts": [
+      "Largest economy in Africa",
+      "Population: 211 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Norway",
+    "flagImage": "flags/norway.jpg",
+    "capital": "Oslo",
+    "currency": "Norwegian Krone (NOK)",
+    "description": "A Scandinavian country known for its stunning fjords, Northern Lights, and high standard of living.",
+    "facts": [
+      "One of the world's most prosperous countries",
+      "Population: 5.4 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "New Zealand",
+    "flagImage": "flags/newzealand.jpg",
+    "capital": "Wellington",
+    "currency": "New Zealand Dollar (NZD)",
+    "description": "An island country in the southwestern Pacific Ocean known for its breathtaking landscapes and unique Māori culture.",
+    "facts": [
+      "Home to the iconic Hobbiton movie set",
+      "Population: 4.9 million"
+    ],
+    "continent": "Australia/Oceania"
+  },
+  {
+    "name": "Oman",
+    "flagImage": "flags/oman.jpg",
+    "capital": "Muscat",
+    "currency": "Omani Rial (OMR)",
+    "description": "An Arab country in the southeastern coast of the Arabian Peninsula, known for its ancient forts and stunning natural beauty.",
+    "facts": [
+      "Known for its traditional souks and hospitality",
+      "Population: 5.1 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Netherlands",
+    "flagImage": "flags/netherlands.jpg",
+    "capital": "Amsterdam",
+    "currency": "Euro (EUR)",
+    "description": "A European country known for its flat landscapes, tulips, windmills, and liberal culture.",
+    "facts": [
+      "One of the most densely populated countries in the world",
+      "Population: 17.4 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Pakistan",
+    "flagImage": "flags/pakistan.jpg",
+    "capital": "Islamabad",
+    "currency": "Pakistani Rupee (PKR)",
+    "description": "A South Asian country with a rich cultural heritage, diverse landscapes, and ancient historical sites.",
+    "facts": [
+      "Home to the highest mountain ranges in the world",
+      "Population: 221 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Palau",
+    "flagImage": "flags/palau.jpg",
+    "capital": "Ngerulmud",
+    "currency": "United States Dollar (USD)",
+    "description": "An island country in the western Pacific Ocean, known for its pristine beaches, diving spots, and ancient Micronesian culture.",
+    "facts": [
+      "One of the world's youngest and smallest sovereign states",
+      "Population: 18,000"
+    ],
+    "continent": "Australia/Oceania"
+  },
+  {
+    "name": "Panama",
+    "flagImage": "flags/panama.jpg",
+    "capital": "Panama City",
+    "currency": "Panamanian Balboa (PAB)",
+    "description": "A country in Central America known for the iconic Panama Canal and its diverse natural landscapes.",
+    "facts": [
+      "Strategic location connecting the Atlantic and Pacific Oceans",
+      "Population: 4.3 million"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Papua New Guinea",
+    "flagImage": "flags/papuanewguinea.jpg",
+    "capital": "Port Moresby",
+    "currency": "Papua New Guinean Kina (PGK)",
+    "description": "A country in Oceania known for its diverse cultures, stunning landscapes, and rich biodiversity.",
+    "facts": [
+      "One of the most culturally diverse countries in the world",
+      "Population: 8.9 million"
+    ],
+    "continent": "Australia/Oceania"
+  },
+  {
+    "name": "Paraguay",
+    "flagImage": "flags/paraguay.jpg",
+    "capital": "Asunción",
+    "currency": "Paraguayan Guaraní (PYG)",
+    "description": "A landlocked country in South America known for its rich cultural heritage and the famous Iguazú Falls.",
+    "facts": [
+      "Home to the indigenous Guaraní people",
+      "Population: 7.1 million"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Peru",
+    "flagImage": "flags/peru.jpg",
+    "capital": "Lima",
+    "currency": "Peruvian Sol (PEN)",
+    "description": "A country in South America known for its ancient Inca heritage, diverse landscapes, and rich culinary traditions.",
+    "facts": [
+      "Home to the iconic Machu Picchu",
+      "Population: 33.0 million"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Poland",
+    "flagImage": "flags/poland.jpg",
+    "capital": "Warsaw",
+    "currency": "Polish Złoty (PLN)",
+    "description": "A country in Central Europe known for its rich history, vibrant cities, and stunning medieval architecture.",
+    "facts": [
+      "One of the largest and most populous countries in the European Union",
+      "Population: 37.8 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Portugal",
+    "flagImage": "flags/portugal.jpg",
+    "capital": "Lisbon",
+    "currency": "Euro (EUR)",
+    "description": "A country in southwestern Europe known for its rich seafaring history, unique architecture, and world-famous wines.",
+    "facts": [
+      "One of the oldest nations in Europe",
+      "Population: 10.2 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "United Kingdom",
+    "flagImage": "flags/unitedkingdom.jpg",
+    "capital": "London",
+    "currency": "Pound Sterling (GBP)",
+    "description": "A sovereign country consisting of England, Scotland, Wales, and Northern Ireland, known for its global influence and rich cultural heritage.",
+    "facts": [
+      "One of the world's leading economic and political powers",
+      "Population: 67.2 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Dominican Republic",
+    "flagImage": "flags/dominicanrepublic.jpg",
+    "capital": "Santo Domingo",
+    "currency": "Dominican Peso (DOP)",
+    "description": "A country located on the island of Hispaniola in the Caribbean, known for its beautiful beaches, music, and rich cultural traditions.",
+    "facts": [
+      "First European settlement in the Americas",
+      "Population: 10.8 million"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Central African Republic",
+    "flagImage": "flags/centralafrica.jpg",
+    "capital": "Bangui",
+    "currency": "Central African CFA Franc (XAF)",
+    "description": "A landlocked country in Central Africa known for its diverse wildlife, national parks, and rich cultural heritage.",
+    "facts": [
+      "One of the least developed countries in the world",
+      "Population: 4.8 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Czech Republic",
+    "flagImage": "flags/czechrepublic.jpg",
+    "capital": "Prague",
+    "currency": "Czech Koruna (CZK)",
+    "description": "A landlocked country in Central Europe known for its stunning architecture, rich history, and vibrant cultural scene.",
+    "facts": [
+      "Home to the famous Prague Castle",
+      "Population: 10.7 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Republic of Congo",
+    "flagImage": "flags/republicofcongo.jpg",
+    "capital": "Brazzaville",
+    "currency": "Central African CFA Franc (XAF)",
+    "description": "A central African nation known for its diverse landscapes, ranging from rainforests to savannas, and rich natural resources.",
+    "facts": [
+      "Home to the Nouabalé-Ndoki National Park",
+      "Population: 5.5 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Democratic Republic of Congo",
+    "flagImage": "flags/drcongo.jpg",
+    "capital": "Kinshasa",
+    "currency": "Congolese Franc (CDF)",
+    "description": "A vast country in Central Africa, rich in natural resources and home to a diverse array of wildlife, including the endangered mountain gorillas.",
+    "facts": [
+      "Second-largest country in Africa by area",
+      "Population: 89.6 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Rwanda",
+    "flagImage": "flags/rwanda.jpg",
+    "capital": "Kigali",
+    "currency": "Rwandan Franc (RWF)",
+    "description": "A small landlocked country in East Africa, known for its incredible biodiversity, including the famous mountain gorillas, and its efforts to promote reconciliation after the 1994 genocide.",
+    "facts": [
+      "Home to the Volcanoes National Park",
+      "Population: 12.6 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Romania",
+    "flagImage": "flags/romania.jpg",
+    "capital": "Bucharest",
+    "currency": "Romanian Leu (RON)",
+    "description": "A southeastern European country known for its beautiful Carpathian landscapes, rich cultural heritage, and historic cities like Bucharest and Brasov.",
+    "facts": [
+      "Home to the famous Bran Castle, associated with Dracula",
+      "Population: 19.2 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Russia",
+    "flagImage": "flags/russia.jpg",
+    "capital": "Moscow",
+    "currency": "Russian Ruble (RUB)",
+    "description": "The largest country in the world, spanning across 11 time zones and two continents, known for its vast landscapes, rich history, and cultural diversity.",
+    "facts": [
+      "Home to the famous Red Square and St. Basil's Cathedral",
+      "Population: 144.1 million"
+    ],
+    "continent": "Europe & Asia"
+  },
+  {
+    "name": "Samoa",
+    "flagImage": "flags/samoa.jpg",
+    "capital": "Apia",
+    "currency": "Samoan Tala (WST)",
+    "description": "A beautiful Pacific island country known for its stunning beaches, lush rainforests, and rich Polynesian culture.",
+    "facts": [
+      "Formerly known as Western Samoa",
+      "Population: 198,000"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "flagImage": "flags/stkittsandnevis.jpg",
+    "capital": "Basseterre",
+    "currency": "East Caribbean Dollar (XCD)",
+    "description": "A dual-island nation in the West Indies, known for its beautiful beaches, historic landmarks, and laid-back Caribbean lifestyle.",
+    "facts": [
+      "One of the smallest countries in the world",
+      "Population: 53,000"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "San Marino",
+    "flagImage": "flags/san-marino.jpg",
+    "capital": "San Marino",
+    "currency": "Euro (EUR)",
+    "description": "An enclaved microstate surrounded by Italy, known for its medieval architecture, stunning hilltop views, and being one of the oldest constitutional republics in the world.",
+    "facts": [
+      "One of the wealthiest countries in the world",
+      "Population: 33,000"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "flagImage": "flags/stvincent.jpg",
+    "capital": "Kingstown",
+    "currency": "East Caribbean Dollar (XCD)",
+    "description": "A Caribbean island nation known for its beautiful beaches, lush landscapes, and rich cultural heritage.",
+    "facts": [
+      "Part of the Grenadines island chain",
+      "Population: 110,000"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Saint Lucia",
+    "flagImage": "flags/stlucia.jpg",
+    "capital": "Castries",
+    "currency": "East Caribbean Dollar (XCD)",
+    "description": "A gorgeous Caribbean island nation known for its stunning beaches, lush rainforests, and the iconic Pitons – two volcanic spires.",
+    "facts": [
+      "Home to the world-famous drive-in volcano",
+      "Population: 183,000"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "flagImage": "flags/sao-tome-and-principe.jpg",
+    "capital": "São Tomé",
+    "currency": "Dobra (STD)",
+    "description": "An island nation off the western coast of Africa, known for its beautiful beaches, lush rainforests, and rich colonial history.",
+    "facts": [
+      "Part of the Gulf of Guinea islands",
+      "Population: 211,000"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Senegal",
+    "flagImage": "flags/senegal.jpg",
+    "capital": "Dakar",
+    "currency": "West African CFA franc (XOF)",
+    "description": "A West African nation known for its vibrant culture, stunning beaches, and rich history, including the famous Goree Island.",
+    "facts": [
+      "Home to the Sine-Saloum Delta, a UNESCO World Heritage Site",
+      "Population: 16.7 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Serbia",
+    "flagImage": "flags/serbia.jpg",
+    "capital": "Belgrade",
+    "currency": "Serbian Dinar (RSD)",
+    "description": "A Balkan nation with a rich cultural heritage, stunning landscapes, and a vibrant capital city known for its nightlife.",
+    "facts": [
+      "Home to the Đavolja Varoš, a unique natural rock formation",
+      "Population: 6.9 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Seychelles",
+    "flagImage": "flags/seychelles.jpg",
+    "capital": "Victoria",
+    "currency": "Seychellois Rupee (SCR)",
+    "description": "An archipelago of 115 islands in the Indian Ocean, known for its beautiful beaches, lush landscapes, and diverse marine life.",
+    "facts": [
+      "Home to the Aldabra Atoll, one of the world's largest coral atolls",
+      "Population: 98,000"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Sierra Leone",
+    "flagImage": "flags/sierra-leone.jpg",
+    "capital": "Freetown",
+    "currency": "Sierra Leonean Leone (SLL)",
+    "description": "A West African nation known for its beautiful beaches, rich cultural heritage, and stunning natural landscapes.",
+    "facts": [
+      "Home to the Outamba-Kilimi National Park, a protected rainforest",
+      "Population: 7.9 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Singapore",
+    "flagImage": "flags/singapore.jpg",
+    "capital": "Singapore",
+    "currency": "Singapore Dollar (SGD)",
+    "description": "A city-state and island nation in Southeast Asia, known for its modern skyline, efficient infrastructure, and diverse culture.",
+    "facts": [
+      "One of the most densely populated countries in the world",
+      "Population: 5.9 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Syria",
+    "flagImage": "flags/syria.jpg",
+    "capital": "Damascus",
+    "currency": "Syrian Pound (SYP)",
+    "description": "A Middle Eastern nation with a rich cultural heritage, ancient cities, and stunning landscapes, including the famous Krak des Chevaliers castle.",
+    "facts": [
+      "Home to the ancient city of Palmyra, a UNESCO World Heritage Site",
+      "Population: 17.1 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Somalia",
+    "flagImage": "flags/somalia.jpg",
+    "capital": "Mogadishu",
+    "currency": "Somali Shilling (SOS)",
+    "description": "A East African nation known for its stunning coastline, rich culture, and diverse landscapes, including the Cal Madow mountain range.",
+    "facts": [
+      "Home to the Laas Geel rock art site, a UNESCO World Heritage Site",
+      "Population: 15.9 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Sri Lanka",
+    "flagImage": "flags/sri-lanka.jpg",
+    "capital": "Sri Jayawardenepura Kotte",
+    "currency": "Sri Lankan Rupee (LKR)",
+    "description": "An island nation in the Indian Ocean, known for its stunning beaches, ancient cities, rich culture, and diverse landscapes.",
+    "facts": [
+      "Home to the ancient rock fortress of Sigiriya, a UNESCO World Heritage Site",
+      "Population: 21.8 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Swaziland/Eswatini",
+    "flagImage": "flags/Swaziland.jpg",
+    "capital": "Mbabane",
+    "currency": "Lilangeni (SZL)",
+    "description": "A landlocked kingdom in Southern Africa, known for its stunning landscapes, rich cultural heritage, and diverse wildlife.",
+    "facts": [
+      "Home to the Hlane Royal National Park, a famous wildlife reserve",
+      "Population: 1.1 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "South Africa",
+    "flagImage": "flags/south-africa.jpg",
+    "capital": "Pretoria, Cape Town, Bloemfontein",
+    "currency": "South African Rand (ZAR)",
+    "description": "A nation at the southern tip of Africa, known for its diverse landscapes, rich wildlife, and vibrant culture.",
+    "facts": [
+      "Home to the iconic Table Mountain in Cape Town",
+      "Population: 59.6 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "South Sudan",
+    "flagImage": "flags/south-sudan.jpg",
+    "capital": "Juba",
+    "currency": "South Sudanese Pound (SSP)",
+    "description": "A landlocked country in East-Central Africa, known for its rich cultural heritage, diverse wildlife, and stunning landscapes.",
+    "facts": [
+      "Home to the Bandingilo National Park, a protected area",
+      "Population: 11.2 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Sudan",
+    "flagImage": "flags/sudan.jpg",
+    "capital": "Khartoum",
+    "currency": "Sudanese Pound (SDG)",
+    "description": "A country in Northeast Africa, known for its ancient history, rich culture, and the iconic Nile River.",
+    "facts": [
+      "Home to the ancient pyramids of Meroe, a UNESCO World Heritage Site",
+      "Population: 43.8 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Sweden",
+    "flagImage": "flags/sweden.jpg",
+    "capital": "Stockholm",
+    "currency": "Swedish Krona (SEK)",
+    "description": "A Scandinavian country known for its stunning landscapes, modern cities, and high quality of life.",
+    "facts": [
+      "Home to the iconic Icehotel in Jukkasjärvi",
+      "Population: 10.4 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Switzerland",
+    "flagImage": "flags/switzerland.jpg",
+    "capital": "Bern",
+    "currency": "Swiss Franc (CHF)",
+    "description": "A mountainous country in Europe, known for its stunning Alps, pristine lakes, and vibrant cities.",
+    "facts": [
+      "Home to the iconic Matterhorn mountain",
+      "Population: 8.7 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Suriname",
+    "flagImage": "flags/suriname.jpg",
+    "capital": "Paramaribo",
+    "currency": "Surinamese Dollar (SRD)",
+    "description": "A country on the northeastern coast of South America, known for its diverse culture, lush rainforests, and stunning natural landscapes.",
+    "facts": [
+      "Home to the Central Suriname Nature Reserve, a UNESCO World Heritage Site",
+      "Population: 597,000"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Thailand",
+    "flagImage": "flags/thailand.jpg",
+    "capital": "Bangkok",
+    "currency": "Thai Baht (THB)",
+    "description": "A Southeast Asian country known for its stunning beaches, ancient temples, and vibrant culture.",
+    "facts": [
+      "Home to the iconic Wat Arun (Temple of Dawn) in Bangkok",
+      "Population: 69.8 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Tanzania",
+    "flagImage": "flags/tanzania.jpg",
+    "capital": "Dodoma",
+    "currency": "Tanzanian Shilling (TZS)",
+    "description": "An East African country known for its stunning natural landscapes, including the iconic Serengeti National Park and Mount Kilimanjaro.",
+    "facts": [
+      "Home to the Ngorongoro Conservation Area, a UNESCO World Heritage Site",
+      "Population: 59.7 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Tajikistan",
+    "flagImage": "flags/tajikistan.jpg",
+    "capital": "Dushanbe",
+    "currency": "Tajikistani Somoni (TJS)",
+    "description": "A landlocked country in Central Asia, known for its stunning mountains, ancient cities, and rich cultural heritage.",
+    "facts": [
+      "Home to the Pamir Mountains, one of the highest mountain ranges in the world",
+      "Population: 9.5 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "East Timor",
+    "flagImage": "flags/east-timor.jpg",
+    "capital": "Dili",
+    "currency": "United States Dollar (USD)",
+    "description": "A Southeast Asian country known for its stunning beaches, rugged landscapes, and rich cultural heritage.",
+    "facts": [
+      "One of the youngest nations in the world, gaining independence in 2002",
+      "Population: 1.3 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Togo",
+    "flagImage": "flags/togo.jpg",
+    "capital": "Lomé",
+    "currency": "West African CFA franc (XOF)",
+    "description": "A West African nation known for its stunning beaches, vibrant markets, and rich cultural heritage.",
+    "facts": [
+      "Home to the Koutammakou, a UNESCO World Heritage Site",
+      "Population: 8.3 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Tonga",
+    "flagImage": "flags/tonga.jpg",
+    "capital": "Nukuʻalofa",
+    "currency": "Tongan paʻanga (TOP)",
+    "description": "A Polynesian country in the southern Pacific Ocean, known for its stunning beaches, coral reefs, and rich culture.",
+    "facts": [
+      "Home to the ancient Tonga Maritime Chiefdom",
+      "Population: 105,000"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "flagImage": "flags/trinidad-and-tobago.jpg",
+    "capital": "Port of Spain",
+    "currency": "Trinidad and Tobago Dollar (TTD)",
+    "description": "A twin-island nation in the Caribbean, known for its vibrant culture, stunning beaches, and rich biodiversity.",
+    "facts": [
+      "Home to the Pitch Lake, one of the world's largest natural asphalt lakes",
+      "Population: 1.4 million"
+    ],
+    "continent": "North America"
+  },
+  {
+    "name": "Tunisia",
+    "flagImage": "flags/tunisia.jpg",
+    "capital": "Tunis",
+    "currency": "Tunisian Dinar (TND)",
+    "description": "A North African country known for its ancient ruins, stunning Mediterranean beaches, and vibrant culture.",
+    "facts": [
+      "Home to the Amphitheater of El Jem, a UNESCO World Heritage Site",
+      "Population: 11.8 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Turkmenistan",
+    "flagImage": "flags/turkmenistan.jpg",
+    "capital": "Ashgabat",
+    "currency": "Turkmenistan Manat (TMT)",
+    "description": "A Central Asian country known for its ancient cities, stunning deserts, and rich cultural heritage.",
+    "facts": [
+      "Home to the Darvaza Gas Crater, also known as the 'Door to Hell'",
+      "Population: 6.1 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Türkiye",
+    "flagImage": "flags/turkiye.jpg",
+    "capital": "Ankara",
+    "currency": "Turkish Lira (TRY)",
+    "description": "A transcontinental country spanning Europe and Asia, known for its rich history, stunning landscapes, and vibrant culture.",
+    "facts": [
+      "Home to the iconic Hagia Sophia and Blue Mosque in Istanbul",
+      "Population: 84.7 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Tuvalu",
+    "flagImage": "flags/tuvalu.jpg",
+    "capital": "Funafuti",
+    "currency": "Australian Dollar (AUD), Tuvaluan Dollar (TVD)",
+    "description": "A Polynesian island country in the Pacific Ocean, known for its stunning atolls, crystal-clear waters, and rich marine life.",
+    "facts": [
+      "One of the smallest and most remote countries in the world",
+      "Population: 11,800"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Ukraine",
+    "flagImage": "flags/ukraine.jpg",
+    "capital": "Kyiv",
+    "currency": "Ukrainian Hryvnia (UAH)",
+    "description": "A country in Eastern Europe, known for its rich cultural heritage, stunning architecture, and vibrant cities.",
+    "facts": [
+      "Home to the Chernobyl Nuclear Power Plant, site of the infamous nuclear disaster",
+      "Population: 43.7 million"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Uganda",
+    "flagImage": "flags/uganda.jpg",
+    "capital": "Kampala",
+    "currency": "Ugandan Shilling (UGX)",
+    "description": "An East African country known for its stunning landscapes, diverse wildlife, and rich cultural heritage.",
+    "facts": [
+      "Home to the Bwindi Impenetrable National Park, a UNESCO World Heritage Site",
+      "Population: 45.7 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Uruguay",
+    "flagImage": "flags/uruguay.jpg",
+    "capital": "Montevideo",
+    "currency": "Uruguayan Peso (UYU)",
+    "description": "A South American country known for its stunning beaches, vibrant culture, and rich gaucho traditions.",
+    "facts": [
+      "Home to the historic Colonia del Sacramento, a UNESCO World Heritage Site",
+      "Population: 3.5 million"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Uzbekistan",
+    "flagImage": "flags/uzbekistan.jpg",
+    "capital": "Tashkent",
+    "currency": "Uzbekistani Som (UZS)",
+    "description": "A Central Asian nation known for its ancient cities, stunning Islamic architecture, and rich cultural heritage.",
+    "facts": [
+      "Home to the iconic Registan Square in Samarkand",
+      "Population: 33.5 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Vanuatu",
+    "flagImage": "flags/vanuatu.jpg",
+    "capital": "Port Vila",
+    "currency": "Vatu (VUV)",
+    "description": "A Pacific island nation known for its stunning beaches, vibrant cultures, and rich biodiversity.",
+    "facts": [
+      "Home to the impressive Millenium Cave, one of the largest caves in the world",
+      "Population: 307,000"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Vatican City",
+    "flagImage": "flags/vatican-city.jpg",
+    "capital": "Vatican City",
+    "currency": "Euro (EUR)",
+    "description": "An independent city-state surrounded by Rome, Italy, known for its rich religious history and the iconic St. Peter's Basilica.",
+    "facts": [
+      "The smallest internationally recognized independent state in the world",
+      "Population: 800"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Venezuela",
+    "flagImage": "flags/venezuela.jpg",
+    "capital": "Caracas",
+    "currency": "Venezuelan Bolívar Soberano (VES)",
+    "description": "A South American country known for its stunning landscapes, rich biodiversity, and vibrant cultural heritage.",
+    "facts": [
+      "Home to the Angel Falls, the highest uninterrupted waterfall in the world",
+      "Population: 28.5 million"
+    ],
+    "continent": "South America"
+  },
+  {
+    "name": "Vietnam",
+    "flagImage": "flags/vietnam.jpg",
+    "capital": "Hanoi",
+    "currency": "Vietnamese Dong (VND)",
+    "description": "A Southeast Asian country known for its stunning landscapes, rich culture, and vibrant cities.",
+    "facts": [
+      "Home to the iconic Ha Long Bay, a UNESCO World Heritage Site",
+      "Population: 97.3 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Yemen",
+    "flagImage": "flags/yemen.jpg",
+    "capital": "Sana'a",
+    "currency": "Yemeni Rial (YER)",
+    "description": "A Middle Eastern country known for its ancient cities, stunning landscapes, and rich cultural heritage.",
+    "facts": [
+      "Home to the Old City of Sana'a, a UNESCO World Heritage Site",
+      "Population: 29.8 million"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Djibouti",
+    "flagImage": "flags/djibouti.jpg",
+    "capital": "Djibouti City",
+    "currency": "Djiboutian Franc (DJF)",
+    "description": "A country in the Horn of Africa, known for its stunning landscapes, rich cultural heritage, and strategic location.",
+    "facts": [
+      "Home to the Lac Assal, one of the hottest and most saline bodies of water in the world",
+      "Population: 988,000"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Zambia",
+    "flagImage": "flags/zambia.jpg",
+    "capital": "Lusaka",
+    "currency": "Zambian Kwacha (ZMW)",
+    "description": "A landlocked country in Southern Africa, known for its stunning natural landscapes, rich wildlife, and vibrant culture.",
+    "facts": [
+      "Home to the iconic Victoria Falls, one of the Seven Natural Wonders of the World",
+      "Population: 18.4 million"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Zimbabwe",
+    "flagImage": "flags/zimbabwe.jpg",
+    "capital": "Harare",
+    "currency": "Zimbabwe Dollar (ZWL)",
+    "description": "A landlocked country in Southern Africa, known for its stunning landscapes, rich wildlife, and ancient ruins.",
+    "facts": [
+      "Home to the iconic Victoria Falls, shared with Zambia",
+      "Population: 14.9 million"
+    ],
+    "continent": "Africa"
+  }
+]
