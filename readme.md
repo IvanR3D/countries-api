@@ -1,3 +1,4 @@
+
 # Countries API
 
 🌍 A simple and powerful API for accessing information about countries around the world.
@@ -5,6 +6,7 @@
 ## Table of Contents
 
 - [Features](#features)
+- [Live API](#live-api)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -23,6 +25,16 @@
 - Get detailed information about a specific country
 - Combine filters for more specific queries
 
+## Live API
+
+You can test the API without any setup using our live version hosted on Render:
+
+```
+https://countries-api-ctn3.onrender.com
+```
+
+Feel free to use this URL to make API calls and test the functionality before setting up your local environment.
+
 ## Getting Started
 
 ### Prerequisites
@@ -34,7 +46,7 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ivanr3d/countries-api.git
+   git clone https://github.com/yourusername/countries-api.git
    ```
 
 2. Navigate to the project directory:
@@ -66,29 +78,31 @@ The API should now be running on `http://localhost:3000`.
 
 ### Examples
 
+You can use either the live API URL or your local server for these examples.
+
 1. Get all countries:
    ```
-   GET http://localhost:3000/data
+   GET https://countries-api-ctn3.onrender.com/data
    ```
 
 2. Get countries from Europe:
    ```
-   GET http://localhost:3000/data?continent=Europe
+   GET https://countries-api-ctn3.onrender.com/data?continent=Europe
    ```
 
 3. Get 5 random countries:
    ```
-   GET http://localhost:3000/data?random=5
+   GET https://countries-api-ctn3.onrender.com/data?random=5
    ```
 
 4. Get information about Afghanistan:
    ```
-   GET http://localhost:3000/data?country=Afghanistan
+   GET https://countries-api-ctn3.onrender.com/data?country=Afghanistan
    ```
 
 5. Get 3 random countries from Asia:
    ```
-   GET http://localhost:3000/data?continent=Asia&random=3
+   GET https://countries-api-ctn3.onrender.com/data?continent=Asia&random=3
    ```
 
 
@@ -110,4 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Data sourced from [List of countries - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries)
 - Built with [Express.js](https://expressjs.com/)
-- Inspired by [REST Countries](https://restcountries.com/)
+- Hosted on [Render](https://render.com/)
