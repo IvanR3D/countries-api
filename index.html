@@ -58,6 +58,10 @@
       overflow-x: auto;
     }
 
+    a {
+      color: var(--button-hover-color);
+    }
+    
     #apiResponse {
       max-height: 300px;
       overflow-y: auto;
@@ -98,6 +102,15 @@
     .endpoint code {
       font-weight: bold;
     }
+
+    .container {
+      display: flex;
+      align-items: center;
+    }
+
+    .container button {
+      margin: 0 10px;
+    }
   </style>
 </head>
 <body>
@@ -121,12 +134,16 @@
     <code>/data?continent=&lt;continentName&gt;&random=&lt;count&gt;</code> Get random countries from a specific continent
   </div>
 
-  <h2>Test the API</h2>
+  <div class="container">
+    <h2>Test the API</h2>
+    <button id="testBtn">Test live</button>
+  </div>
   <input type="text" id="apiUrl" placeholder="Enter API URL" value="http://localhost:3000/data">
   <button id="fetchData">Fetch Data</button>
   <pre id="apiResponse"></pre>
 
   <h2>Example Usage</h2>
+  <p>Using a live version served on <a href="https://render.com/" target="_blank">Render.com</a></p>
   <pre>
 # All countries
 https://your-api-url.com/data
@@ -143,8 +160,6 @@ https://your-api-url.com/data?country=Afghanistan
 # 3 random countries from Asia
 https://your-api-url.com/data?continent=Asia&random=3</pre>
 
-  <p>Replace <code>your-api-url.com</code> with your actual API URL.</p>
-
   <script>
     const apiUrlInput = document.getElementById('apiUrl');
     const fetchDataButton = document.getElementById('fetchData');
@@ -160,6 +175,8 @@ https://your-api-url.com/data?continent=Asia&random=3</pre>
         apiResponse.textContent = `Error: ${error.message}`;
       }
     });
+    document.getElementById('testBtn').addEventListener("click", () => apiUrlInput.value='https://countries-api-ctn3.onrender.com/data');
+    
   </script>
 </body>
 </html>
