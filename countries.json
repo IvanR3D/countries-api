@@ -1,7 +1,7 @@
 [
   {
     "name": "Afghanistan",
-    "flagImage": "flags/afghanistan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/afghanistan.jpg",
     "capital": "Kabul",
     "currency": "Afghan Afghani (AFN)",
     "description": "A landlocked country in South Asia known for its rugged mountains and turbulent history.",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Albania",
-    "flagImage": "flags/albania.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/albania.jpg",
     "capital": "Tirana",
     "currency": "Albanian Lek (ALL)",
     "description": "A country in Southeast Europe, known for its rich cultural heritage and stunning Adriatic coastline.",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Germany",
-    "flagImage": "flags/germany.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/germany.jpg",
     "capital": "Berlin",
     "currency": "Euro (EUR)",
     "description": "A Western European country with a rich history, known for its beer, cars, and economic powerhouse.",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Andorra",
-    "flagImage": "flags/andorra.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/andorra.jpg",
     "capital": "Andorra la Vella",
     "currency": "Euro (EUR)",
     "description": "A small principality situated between France and Spain in the Pyrenees mountains.",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Angola",
-    "flagImage": "flags/angola.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/angola.jpg",
     "capital": "Luanda",
     "currency": "Angolan Kwanza (AOA)",
     "description": "A country in southwestern Africa, rich in natural resources and diverse landscapes.",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Antigua and Barbuda",
-    "flagImage": "flags/antigua-and-barbuda.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/antigua-and-barbuda.jpg",
     "capital": "St. John's",
     "currency": "East Caribbean Dollar (XCD)",
     "description": "A twin-island nation in the Caribbean Sea, known for its stunning beaches and vibrant culture.",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Saudi Arabia",
-    "flagImage": "flags/saudi-arabia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/saudi-arabia.jpg",
     "capital": "Riyadh",
     "currency": "Saudi Riyal (SAR)",
     "description": "A sovereign Arab state in Western Asia, known for its vast deserts and as the birthplace of Islam.",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Algeria",
-    "flagImage": "flags/algeria.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/algeria.jpg",
     "capital": "Algiers",
     "currency": "Algerian Dinar (DZD)",
     "description": "A country in North Africa, with a rich history and diverse landscapes ranging from the Sahara desert to the Mediterranean coast.",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Argentina",
-    "flagImage": "flags/argentina.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/argentina.jpg",
     "capital": "Buenos Aires",
     "currency": "Argentine Peso (ARS)",
     "description": "A vast country in South America, known for its natural wonders, tango, and world-class wine.",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Armenia",
-    "flagImage": "flags/armenia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/armenia.jpg",
     "capital": "Yerevan",
     "currency": "Armenian Dram (AMD)",
     "description": "A country in the South Caucasus region, with a rich cultural heritage and stunning landscapes.",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Australia",
-    "flagImage": "flags/australia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/australia.jpg",
     "capital": "Canberra",
     "currency": "Australian Dollar (AUD)",
     "description": "A country and continent, known for its unique wildlife, stunning beaches, and vibrant cities.",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Austria",
-    "flagImage": "flags/austria.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/austria.jpg",
     "capital": "Vienna",
     "currency": "Euro (EUR)",
     "description": "A landlocked country in Central Europe, known for its stunning Alpine scenery, rich cultural heritage, and classical music.",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Azerbaijan",
-    "flagImage": "flags/azerbaijan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/azerbaijan.jpg",
     "capital": "Baku",
     "currency": "Azerbaijani Manat (AZN)",
     "description": "A country in the Caucasus region, with a rich history, diverse landscapes, and abundant natural resources.",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Bahamas",
-    "flagImage": "flags/bahamas.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bahamas.jpg",
     "capital": "Nassau",
     "currency": "Bahamian Dollar (BSD)",
     "description": "An archipelagic state in the West Indies, known for its beautiful beaches, coral reefs, and luxury resorts.",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Bangladesh",
-    "flagImage": "flags/bangladesh.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bangladesh.jpg",
     "capital": "Dhaka",
     "currency": "Bangladeshi Taka (BDT)",
     "description": "A country in South Asia, known for its rich cultural heritage, dense population, and the world's longest natural beach.",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Barbados",
-    "flagImage": "flags/barbados.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/barbados.jpg",
     "capital": "Bridgetown",
     "currency": "Barbadian Dollar (BBD)",
     "description": "A Caribbean island nation known for its beautiful beaches, coral reefs, and vibrant culture.",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Bahrain",
-    "flagImage": "flags/bahrain.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bahrain.jpg",
     "capital": "Manama",
     "currency": "Bahraini Dinar (BHD)",
     "description": "A small island country in the Persian Gulf, known for its pearl industry and financial hub.",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Belgium",
-    "flagImage": "flags/belgium.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/belgium.jpg",
     "capital": "Brussels",
     "currency": "Euro (EUR)",
     "description": "A country in Western Europe, known for its medieval cities, delicious cuisine, and rich history.",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Belize",
-    "flagImage": "flags/belize.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/belize.jpg",
     "capital": "Belmopan",
     "currency": "Belize Dollar (BZD)",
     "description": "A country on the northeastern coast of Central America, known for its diverse ecosystems, Mayan ruins, and vibrant culture.",
@@ -229,7 +229,7 @@
   },
   {
     "name": "Benin",
-    "flagImage": "flags/benin.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/benin.jpg",
     "capital": "Porto-Novo",
     "currency": "West African CFA Franc (XOF)",
     "description": "A country in West Africa, known for its vibrant culture, voodoo traditions, and diverse wildlife.",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Belarus",
-    "flagImage": "flags/belarus.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/belarus.jpg",
     "capital": "Minsk",
     "currency": "Belarusian Ruble (BYN)",
     "description": "A landlocked country in Eastern Europe, known for its rich history, national parks, and cultural traditions.",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Myanmar (Burma)",
-    "flagImage": "flags/myanmar.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/myanmar.jpg",
     "capital": "Naypyidaw",
     "currency": "Burmese Kyat (MMK)",
     "description": "A country in Southeast Asia, known for its ancient temples, diverse ethnic groups, and rich cultural heritage.",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Bolivia",
-    "flagImage": "flags/bolivia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bolivia.jpg",
     "capital": "Sucre (constitutional), La Paz (administrative)",
     "currency": "Bolivian Boliviano (BOB)",
     "description": "A landlocked country in central South America, known for its diverse landscapes, indigenous cultures, and colonial architecture.",
@@ -277,7 +277,7 @@
   },
   {
     "name": "Bosnia and Herzegovina",
-    "flagImage": "flags/bosnia-and-herzegovina.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bosnia-and-herzegovina.jpg",
     "capital": "Sarajevo",
     "currency": "Convertible Mark (BAM)",
     "description": "A country in the Balkans region of Southeastern Europe, known for its diverse history, natural beauty, and rich cultural heritage.",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Botswana",
-    "flagImage": "flags/botswana.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/botswana.jpg",
     "capital": "Gaborone",
     "currency": "Botswana Pula (BWP)",
     "description": "A landlocked country in Southern Africa, known for its vast wildlife reserves, the Kalahari Desert, and diamond industry.",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Brazil",
-    "flagImage": "flags/brazil.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/brazil.jpg",
     "capital": "Brasília",
     "currency": "Brazilian Real (BRL)",
     "description": "A vast country in South America, known for its diverse landscapes, vibrant culture, and iconic landmarks like the Amazon rainforest and Christ the Redeemer statue.",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Brunei",
-    "flagImage": "flags/brunei.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/brunei.jpg",
     "capital": "Bandar Seri Begawan",
     "currency": "Brunei Dollar (BND)",
     "description": "A sovereign state on the island of Borneo in Southeast Asia, known for its wealth from oil and gas reserves, and its unique blend of Malay and Islamic traditions.",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Bulgaria",
-    "flagImage": "flags/bulgaria.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bulgaria.jpg",
     "capital": "Sofia",
     "currency": "Bulgarian Lev (BGN)",
     "description": "A country in Southeastern Europe, known for its Black Sea coastline, mountainous landscapes, and rich cultural heritage.",
@@ -337,7 +337,7 @@
   },
   {
     "name": "Burkina Faso",
-    "flagImage": "flags/burkina-faso.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/burkina-faso.jpg",
     "capital": "Ouagadougou",
     "currency": "West African CFA Franc (XOF)",
     "description": "A landlocked country in West Africa, known for its vibrant music, traditional architecture, and cultural festivals.",
@@ -349,7 +349,7 @@
   },
   {
     "name": "Burundi",
-    "flagImage": "flags/burundi.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/burundi.jpg",
     "capital": "Gitega",
     "currency": "Burundian Franc (BIF)",
     "description": "A landlocked country in the Great Lakes region of East Africa, known for its scenic landscapes, wildlife, and rich cultural heritage.",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Bhutan",
-    "flagImage": "flags/bhutan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/bhutan.jpg",
     "capital": "Thimphu",
     "currency": "Bhutanese Ngultrum (BTN)",
     "description": "A landlocked country in the Eastern Himalayas, known for its Buddhist culture, stunning landscapes, and the concept of Gross National Happiness.",
@@ -373,7 +373,7 @@
   },
   {
     "name": "Cabo Verde",
-    "flagImage": "flags/cabo-verde.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/cabo-verde.jpg",
     "capital": "Praia",
     "currency": "Cabo Verdean Escudo (CVE)",
     "description": "An archipelago country in the central Atlantic Ocean, known for its stunning beaches, vibrant music scene, and rich Creole culture.",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Cambodia",
-    "flagImage": "flags/cambodia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/cambodia.jpg",
     "capital": "Phnom Penh",
     "currency": "Cambodian Riel (KHR)",
     "description": "A country in Southeast Asia, known for its ancient temples like Angkor Wat, rich cultural heritage, and tragic history under the Khmer Rouge regime.",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Cameroon",
-    "flagImage": "flags/cameroon.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/cameroon.jpg",
     "capital": "Yaoundé",
     "currency": "Central African CFA Franc (XAF)",
     "description": "A country in Central Africa, known for its diverse landscapes, including beaches, deserts, mountains, and rainforests.",
@@ -409,7 +409,7 @@
   },
   {
     "name": "Canada",
-    "flagImage": "flags/canada.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/canada.jpg",
     "capital": "Ottawa",
     "currency": "Canadian Dollar (CAD)",
     "description": "A country in North America, spanning from the Atlantic to the Pacific and Arctic Oceans, known for its vast wilderness, multicultural cities, and natural resources.",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Qatar",
-    "flagImage": "flags/qatar.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/qatar.jpg",
     "capital": "Doha",
     "currency": "Qatari Riyal (QAR)",
     "description": "A sovereign state in the Middle East, known for its vast oil and gas reserves, modern architecture, and hosting of major international events.",
@@ -433,7 +433,7 @@
   },
   {
     "name": "Chad",
-    "flagImage": "flags/chad.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/chad.jpg",
     "capital": "N'Djamena",
     "currency": "Central African CFA Franc (XAF)",
     "description": "A landlocked country in north-central Africa, known for its diverse landscapes, including the Sahara Desert, and rich cultural heritage.",
@@ -445,7 +445,7 @@
   },
   {
     "name": "Chile",
-    "flagImage": "flags/chile.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/chile.jpg",
     "capital": "Santiago",
     "currency": "Chilean Peso (CLP)",
     "description": "A country in western South America, known for its long Pacific coastline, diverse landscapes, and world-renowned wine regions.",
@@ -457,7 +457,7 @@
   },
   {
     "name": "China",
-    "flagImage": "flags/china.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/china.jpg",
     "capital": "Beijing",
     "currency": "Renminbi (CNY)",
     "description": "A country in East Asia, known for its rich history, cultural heritage, and as one of the world's oldest civilizations.",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Cyprus",
-    "flagImage": "flags/cyprus.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/cyprus.jpg",
     "capital": "Nicosia",
     "currency": "Euro (EUR)",
     "description": "An island country in the Eastern Mediterranean, known for its beautiful beaches, ancient ruins, and rich cultural heritage.",
@@ -481,7 +481,7 @@
   },
   {
     "name": "Colombia",
-    "flagImage": "flags/colombia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/colombia.jpg",
     "capital": "Bogotá",
     "currency": "Colombian Peso (COP)",
     "description": "A country in northwestern South America, known for its diverse landscapes, vibrant culture, and as one of the world's largest producers of coffee.",
@@ -493,7 +493,7 @@
   },
   {
     "name": "Comoros",
-    "flagImage": "flags/comoros.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/comoros.jpg",
     "capital": "Moroni",
     "currency": "Comorian Franc (KMF)",
     "description": "An archipelagic island country in the Indian Ocean, known for its stunning beaches, volcanic landscapes, and rich cultural heritage.",
@@ -505,7 +505,7 @@
   },
   {
     "name": "North Korea",
-    "flagImage": "flags/north-korea.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/north-korea.jpg",
     "capital": "Pyongyang",
     "currency": "North Korean Won (KPW)",
     "description": "A country in East Asia, officially known as the Democratic People's Republic of Korea, known for its authoritarian regime, nuclear program, and secrecy.",
@@ -517,7 +517,7 @@
   },
   {
     "name": "South Korea",
-    "flagImage": "flags/south-korea.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/south-korea.jpg",
     "capital": "Seoul",
     "currency": "South Korean Won (KRW)",
     "description": "A country in East Asia, known for its modern cities, technological advancements, and rich cultural heritage.",
@@ -529,7 +529,7 @@
   },
   {
     "name": "Ivory Coast",
-    "flagImage": "flags/ivory-coast.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/ivory-coast.jpg",
     "capital": "Yamoussoukro",
     "currency": "West African CFA Franc (XOF)",
     "description": "A country in West Africa, known for its diverse wildlife, beautiful beaches, and as one of the world's largest producers of cocoa.",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Costa Rica",
-    "flagImage": "flags/costa-rica.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/costa-rica.jpg",
     "capital": "San José",
     "currency": "Costa Rican Colón (CRC)",
     "description": "A country in Central America, known for its lush rainforests, diverse wildlife, and commitment to sustainable tourism.",
@@ -553,7 +553,7 @@
   },
   {
     "name": "Croatia",
-    "flagImage": "flags/croatia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/croatia.jpg",
     "capital": "Zagreb",
     "currency": "Croatian Kuna (HRK)",
     "description": "A country in Southeast Europe, known for its stunning Adriatic coastline, medieval cities, and rich cultural heritage.",
@@ -565,7 +565,7 @@
   },
   {
     "name": "Cuba",
-    "flagImage": "flags/cuba.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/cuba.jpg",
     "capital": "Havana",
     "currency": "Cuban Peso (CUP)",
     "description": "An island country in the Caribbean Sea, known for its vibrant culture, vintage cars, and as a socialist state since the Cuban Revolution.",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Denmark",
-    "flagImage": "flags/denmark.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/denmark.jpg",
     "capital": "Copenhagen",
     "currency": "Danish Krone (DKK)",
     "description": "A country in Northern Europe, known for its hygge lifestyle, historic castles, and as one of the world's most environmentally-friendly nations.",
@@ -589,7 +589,7 @@
   },
   {
     "name": "Dominica",
-    "flagImage": "flags/dominica.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/dominica.jpg",
     "capital": "Roseau",
     "currency": "East Caribbean Dollar (XCD)",
     "description": "An island country in the Caribbean Sea, known for its lush rainforests, volcanic landscapes, and eco-tourism.",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Ecuador",
-    "flagImage": "flags/ecuador.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/ecuador.jpg",
     "capital": "Quito",
     "currency": "United States Dollar (USD)",
     "description": "A country in northwestern South America, known for its diverse landscapes, including the Galápagos Islands and the Andes mountains.",
@@ -613,7 +613,7 @@
   },
   {
     "name": "Egypt",
-    "flagImage": "flags/egypt.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/egypt.jpg",
     "capital": "Cairo",
     "currency": "Egyptian Pound (EGP)",
     "description": "A country in North Africa, known for its ancient civilization, iconic pyramids, and rich cultural heritage along the Nile River.",
@@ -625,7 +625,7 @@
   },
   {
     "name": "El Salvador",
-    "flagImage": "flags/el-salvador.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/el-salvador.jpg",
     "capital": "San Salvador",
     "currency": "United States Dollar (USD)",
     "description": "A country in Central America, known for its beautiful beaches, ancient Mayan ruins, and as the smallest country in continental America.",
@@ -637,7 +637,7 @@
   },
   {
     "name": "United States",
-    "flagImage": "flags/eeuu.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/eeuu.jpg",
     "capital": "Washington, D.C.",
     "currency": "United States Dollar (USD)",
     "description": "A federal republic consisting of 50 states and a federal district.",
@@ -649,7 +649,7 @@
   },
   {
     "name": "Japan",
-    "flagImage": "flags/japan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/japan.jpg",
     "capital": "Tokyo",
     "currency": "Japanese Yen (JPY)",
     "description": "An island country in East Asia.",
@@ -661,7 +661,7 @@
   },
   {
     "name": "United Arab Emirates",
-    "flagImage": "flags/united-arab-emirates.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/united-arab-emirates.jpg",
     "capital": "Abu Dhabi",
     "currency": "United Arab Emirates Dirham (AED)",
     "description": "A federation of seven emirates in the Middle East, known for its modern cities, luxury, and as a major hub for tourism and business.",
@@ -673,7 +673,7 @@
   },
   {
     "name": "Eritrea",
-    "flagImage": "flags/eritrea.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/eritrea.jpg",
     "capital": "Asmara",
     "currency": "Eritrean Nakfa (ERN)",
     "description": "A country in the Horn of Africa, known for its diverse landscapes, ancient historical sites, and unique architecture.",
@@ -685,7 +685,7 @@
   },
   {
     "name": "Slovakia",
-    "flagImage": "flags/slovakia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/slovakia.jpg",
     "capital": "Bratislava",
     "currency": "Euro (EUR)",
     "description": "A landlocked country in Central Europe, known for its medieval towns, castles, and stunning natural landscapes.",
@@ -697,7 +697,7 @@
   },
   {
     "name": "Slovenia",
-    "flagImage": "flags/slovenia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/slovenia.jpg",
     "capital": "Ljubljana",
     "currency": "Euro (EUR)",
     "description": "A country in Southern Europe, known for its beautiful natural scenery, including the Julian Alps and the Karst Plateau.",
@@ -709,7 +709,7 @@
   },
   {
     "name": "Spain",
-    "flagImage": "flags/spain.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/spain.jpg",
     "capital": "Madrid",
     "currency": "Euro (EUR)",
     "description": "A country in Southwestern Europe, known for its rich cultural heritage, vibrant cities, stunning architecture, and world-renowned cuisine.",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Estonia",
-    "flagImage": "flags/estonia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/estonia.jpg",
     "capital": "Tallinn",
     "currency": "Euro (EUR)",
     "description": "A country in Northern Europe, known for its well-preserved medieval cities, forests, and as one of the most tech-savvy nations in the world.",
@@ -733,7 +733,7 @@
   },
   {
     "name": "Ethiopia",
-    "flagImage": "flags/ethiopia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/ethiopia.jpg",
     "capital": "Addis Ababa",
     "currency": "Ethiopian Birr (ETB)",
     "description": "A country in the Horn of Africa, known for its ancient culture, stunning landscapes, and as the birthplace of coffee.",
@@ -745,7 +745,7 @@
   },
   {
     "name": "Philippines",
-    "flagImage": "flags/philippines.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/philippines.jpg",
     "capital": "Manila",
     "currency": "Philippine Peso (PHP)",
     "description": "An archipelagic country in Southeast Asia, known for its beautiful beaches, diverse flora and fauna, and rich cultural heritage.",
@@ -757,7 +757,7 @@
   },
   {
     "name": "Finland",
-    "flagImage": "flags/finland.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/finland.jpg",
     "capital": "Helsinki",
     "currency": "Euro (EUR)",
     "description": "A country in Northern Europe, known for its vast forests, thousands of lakes, and as a leader in education and innovation.",
@@ -769,7 +769,7 @@
   },
   {
     "name": "Fiji",
-    "flagImage": "flags/fiji.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/fiji.jpg",
     "capital": "Suva",
     "currency": "Fijian Dollar (FJD)",
     "description": "An island country in the South Pacific, known for its stunning beaches, coral reefs, and rich cultural heritage.",
@@ -781,7 +781,7 @@
   },
   {
     "name": "France",
-    "flagImage": "flags/france.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/france.jpg",
     "capital": "Paris",
     "currency": "Euro (EUR)",
     "description": "A transcontinental country spanning Western Europe and several overseas regions, known for its rich cultural heritage, world-renowned cuisine, and iconic landmarks like the Eiffel Tower.",
@@ -793,7 +793,7 @@
   },
   {
     "name": "Gabon",
-    "flagImage": "flags/gabon.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/gabon.jpg",
     "capital": "Libreville",
     "currency": "Central African CFA Franc (XAF)",
     "description": "A country in West-Central Africa, known for its diverse wildlife, extensive rainforests, and oil reserves.",
@@ -805,7 +805,7 @@
   },
   {
     "name": "Gambia",
-    "flagImage": "flags/gambia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/gambia.jpg",
     "capital": "Banjul",
     "currency": "Gambian Dalasi (GMD)",
     "description": "A country in West Africa, known for its diverse landscapes, including beaches, mangrove swamps, and wildlife reserves.",
@@ -817,7 +817,7 @@
   },
   {
     "name": "Georgia",
-    "flagImage": "flags/georgia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/georgia.jpg",
     "capital": "Tbilisi",
     "currency": "Georgian Lari (GEL)",
     "description": "A country in the Caucasus region of Eurasia, known for its stunning mountain landscapes, ancient history, and unique wine culture.",
@@ -829,7 +829,7 @@
   },
   {
     "name": "Ghana",
-    "flagImage": "flags/ghana.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/ghana.jpg",
     "capital": "Accra",
     "currency": "Ghanaian Cedi (GHS)",
     "description": "A country in West Africa, known for its rich cultural heritage, ancient forts and castles, and as one of the most stable democracies in the region.",
@@ -841,7 +841,7 @@
   },
   {
     "name": "Grenada",
-    "flagImage": "flags/grenada.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/grenada.jpg",
     "capital": "St. George's",
     "currency": "East Caribbean Dollar (XCD)",
     "description": "An island country in the Caribbean Sea, known for its spice plantations, beautiful beaches, and as the 'Spice Isle' of the Caribbean.",
@@ -853,7 +853,7 @@
   },
   {
     "name": "Greece",
-    "flagImage": "flags/greece.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/greece.jpg",
     "capital": "Athens",
     "currency": "Euro (EUR)",
     "description": "A country in Southeastern Europe, known for its ancient history, stunning islands, and as the birthplace of democracy and Western civilization.",
@@ -865,7 +865,7 @@
   },
   {
     "name": "Guatemala",
-    "flagImage": "flags/guatemala.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/guatemala.jpg",
     "capital": "Guatemala City",
     "currency": "Guatemalan Quetzal (GTQ)",
     "description": "A country in Central America, known for its ancient Mayan ruins, colonial architecture, and diverse indigenous cultures.",
@@ -877,7 +877,7 @@
   },
   {
     "name": "Guinea-Bissau",
-    "flagImage": "flags/guinea-bissau.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/guinea-bissau.jpg",
     "capital": "Bissau",
     "currency": "West African CFA Franc (XOF)",
     "description": "A country in West Africa, known for its diverse landscapes, including coastal areas, savannas, and rainforests.",
@@ -889,7 +889,7 @@
   },
   {
     "name": "Equatorial Guinea",
-    "flagImage": "flags/equatorial-guinea.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/equatorial-guinea.jpg",
     "capital": "Malabo",
     "currency": "Central African CFA Franc (XAF)",
     "description": "A country in Central Africa, known for its rich biodiversity, including pristine rainforests and coastal areas.",
@@ -901,7 +901,7 @@
   },
   {
     "name": "Guinea",
-    "flagImage": "flags/guinea.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/guinea.jpg",
     "capital": "Conakry",
     "currency": "Guinean Franc (GNF)",
     "description": "A country in West Africa, known for its diverse landscapes, including coastal areas, savannas, and rainforests.",
@@ -913,7 +913,7 @@
   },
   {
     "name": "Guyana",
-    "flagImage": "flags/guyana.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/guyana.jpg",
     "capital": "Georgetown",
     "currency": "Guyanese Dollar (GYD)",
     "description": "A country in the northern part of South America, known for its diverse ecosystems, including rainforests, savannas, and wetlands.",
@@ -925,7 +925,7 @@
   },
   {
     "name": "Haiti",
-    "flagImage": "flags/haiti.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/haiti.jpg",
     "capital": "Port-au-Prince",
     "currency": "Haitian Gourde (HTG)",
     "description": "A country in the Caribbean Sea, known for its rich cultural heritage, vibrant music, and as the first independent Caribbean nation.",
@@ -937,7 +937,7 @@
   },
   {
     "name": "Honduras",
-    "flagImage": "flags/honduras.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/honduras.jpg",
     "capital": "Tegucigalpa",
     "currency": "Honduran Lempira (HNL)",
     "description": "A country in Central America, known for its diverse landscapes, including beaches, rainforests, and ancient Mayan ruins.",
@@ -949,7 +949,7 @@
   },
   {
     "name": "Hungary",
-    "flagImage": "flags/hungary.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/hungary.jpg",
     "capital": "Budapest",
     "currency": "Hungarian Forint (HUF)",
     "description": "A landlocked country in Central Europe, known for its rich history, thermal spas, and stunning architecture in cities like Budapest.",
@@ -961,7 +961,7 @@
   },
   {
     "name": "India",
-    "flagImage": "flags/india.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/india.jpg",
     "capital": "New Delhi",
     "currency": "Indian Rupee (INR)",
     "description": "A vast country in South Asia, known for its diverse cultures, ancient history, and as one of the world's oldest civilizations.",
@@ -973,7 +973,7 @@
   },
   {
     "name": "Indonesia",
-    "flagImage": "flags/indonesia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/indonesia.jpg",
     "capital": "Jakarta",
     "currency": "Indonesian Rupiah (IDR)",
     "description": "An archipelagic country in Southeast Asia, known for its diverse cultures, stunning islands, and rich biodiversity.",
@@ -985,7 +985,7 @@
   },
   {
     "name": "Iran",
-    "flagImage": "flags/iran.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/iran.jpg",
     "capital": "Tehran",
     "currency": "Iranian Rial (IRR)",
     "description": "A country in Western Asia, known for its ancient history, rich cultural heritage, and as one of the oldest continuous civilizations in the world.",
@@ -997,7 +997,7 @@
   },
   {
     "name": "Iraq",
-    "flagImage": "flags/iraq.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/iraq.jpg",
     "capital": "Baghdad",
     "currency": "Iraqi Dinar (IQD)",
     "description": "A country in Western Asia, known for its ancient civilizations, rich history, and as the cradle of civilization.",
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Ireland",
-    "flagImage": "flags/ireland.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/ireland.jpg",
     "capital": "Dublin",
     "currency": "Euro (EUR)",
     "description": "An island country in the North Atlantic, known for its lush green landscapes, rich cultural heritage, and as the birthplace of literary giants like James Joyce and Oscar Wilde.",
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "Iceland",
-    "flagImage": "flags/iceland.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/iceland.jpg",
     "capital": "Reykjavík",
     "currency": "Icelandic Króna (ISK)",
     "description": "An island country in the North Atlantic Ocean, known for its stunning natural landscapes, including glaciers, hot springs, and volcanic terrain.",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Marshall Islands",
-    "flagImage": "flags/marshall-islands.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/marshall-islands.jpg",
     "capital": "Majuro",
     "currency": "United States Dollar (USD)",
     "description": "An island country in the Pacific Ocean, known for its stunning atolls, rich marine life, and as one of the world's smallest nations.",
@@ -1045,7 +1045,7 @@
   },
   {
     "name": "Solomon Islands",
-    "flagImage": "flags/solomon-islands.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/solomon-islands.jpg",
     "capital": "Honiara",
     "currency": "Solomon Islands Dollar (SBD)",
     "description": "An island country in the South Pacific Ocean, known for its rich cultural heritage, diverse ecosystems, and stunning beaches.",
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Israel",
-    "flagImage": "flags/israel.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/israel.jpg",
     "capital": "Jerusalem",
     "currency": "Israeli New Shekel (ILS)",
     "description": "A country in the Middle East, known for its ancient history, religious significance, and as the birthplace of several major world religions.",
@@ -1069,7 +1069,7 @@
   },
   {
     "name": "Italy",
-    "flagImage": "flags/italy.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/italy.jpg",
     "capital": "Rome",
     "currency": "Euro (EUR)",
     "description": "A country in Southern Europe, known for its rich cultural heritage, ancient history, stunning art and architecture, and world-renowned cuisine.",
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Jamaica",
-    "flagImage": "flags/jamaica.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/jamaica.jpg",
     "capital": "Kingston",
     "currency": "Jamaican Dollar (JMD)",
     "description": "An island country in the Caribbean Sea, known for its vibrant culture, reggae music, and stunning beaches.",
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "Jordan",
-    "flagImage": "flags/jordan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/jordan.jpg",
     "capital": "Amman",
     "currency": "Jordanian Dinar (JOD)",
     "description": "A country in the Middle East, known for its ancient history, stunning desert landscapes, and iconic archaeological sites.",
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "Kazakhstan",
-    "flagImage": "flags/kazakhstan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/kazakhstan.jpg",
     "capital": "Nur-Sultan",
     "currency": "Kazakhstani Tenge (KZT)",
     "description": "A country in Central Asia, known for its vast steppes, stunning mountain ranges, and as the world's largest landlocked country.",
@@ -1117,7 +1117,7 @@
   },
   {
     "name": "Kenya",
-    "flagImage": "flags/kenya.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/kenya.jpg",
     "capital": "Nairobi",
     "currency": "Kenyan Shilling (KES)",
     "description": "A country in East Africa, known for its diverse wildlife, stunning landscapes, and as a major safari destination.",
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "Kyrgyzstan",
-    "flagImage": "flags/kyrgyzstan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/kyrgyzstan.jpg",
     "capital": "Bishkek",
     "currency": "Kyrgyzstani Som (KGS)",
     "description": "A country in Central Asia, known for its stunning mountain ranges, including the Tian Shan and Pamir ranges, and nomadic traditions.",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Kiribati",
-    "flagImage": "flags/kiribati.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/kiribati.jpg",
     "capital": "South Tarawa",
     "currency": "Australian Dollar (AUD)",
     "description": "An island country in the Central Pacific Ocean, known for its low-lying atolls and as one of the world's most vulnerable nations to the effects of climate change.",
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "Kuwait",
-    "flagImage": "flags/kuwait.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/kuwait.jpg",
     "capital": "Kuwait City",
     "currency": "Kuwaiti Dinar (KWD)",
     "description": "A country in the Middle East, known for its vast oil reserves, modern architecture, and as one of the wealthiest nations in the world.",
@@ -1165,7 +1165,7 @@
   },
   {
     "name": "Laos",
-    "flagImage": "flags/laos.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/laos.jpg",
     "capital": "Vientiane",
     "currency": "Lao Kip (LAK)",
     "description": "A landlocked country in Southeast Asia, known for its ancient temples, rich cultural heritage, and stunning natural landscapes.",
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Lesotho",
-    "flagImage": "flags/lesotho.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/lesotho.jpg",
     "capital": "Maseru",
     "currency": "Lesotho Loti (LSL)",
     "description": "A landlocked country in Southern Africa, known for its stunning mountain landscapes, including the Maluti Mountains, and unique cultural traditions.",
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "Latvia",
-    "flagImage": "flags/latvia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/latvia.jpg",
     "capital": "Riga",
     "currency": "Euro (EUR)",
     "description": "A country in the Baltic region of Northern Europe, known for its beautiful cities, rich cultural heritage, and stunning natural landscapes.",
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Lebanon",
-    "flagImage": "flags/lebanon.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/lebanon.jpg",
     "capital": "Beirut",
     "currency": "Lebanese Pound (LBP)",
     "description": "A country in the Middle East, known for its rich history, stunning Mediterranean coastline, and vibrant culture.",
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "Liberia",
-    "flagImage": "flags/liberia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/liberia.jpg",
     "capital": "Monrovia",
     "currency": "Liberian Dollar (LRD)",
     "description": "A country in West Africa, known for its lush rainforests, rich cultural heritage, and as one of the world's oldest republics.",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Libya",
-    "flagImage": "flags/libya.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/libya.jpg",
     "capital": "Tripoli",
     "currency": "Libyan Dinar (LYD)",
     "description": "A country in North Africa, known for its ancient history, stunning Mediterranean coastline, and vast Sahara Desert.",
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "Liechtenstein",
-    "flagImage": "flags/liechtenstein.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/liechtenstein.jpg",
     "capital": "Vaduz",
     "currency": "Swiss Franc (CHF)",
     "description": "A landlocked country in Western Europe, known for its stunning Alpine landscapes, medieval castles, and as one of the world's smallest and wealthiest nations.",
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Lithuania",
-    "flagImage": "flags/lithuania.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/lithuania.jpg",
     "capital": "Vilnius",
     "currency": "Euro (EUR)",
     "description": "A country in the Baltic region of Northern Europe, known for its stunning medieval cities, rich cultural heritage, and stunning natural landscapes.",
@@ -1261,7 +1261,7 @@
   },
   {
     "name": "Luxembourg",
-    "flagImage": "flags/luxembourg.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/luxembourg.jpg",
     "capital": "Luxembourg City",
     "currency": "Euro (EUR)",
     "description": "A landlocked country in Western Europe, known for its beautiful medieval towns, rich history, and as one of the world's wealthiest nations.",
@@ -1273,7 +1273,7 @@
   },
   {
     "name": "North Macedonia",
-    "flagImage": "flags/north-macedonia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/north-macedonia.jpg",
     "capital": "Skopje",
     "currency": "Macedonian Denar (MKD)",
     "description": "A landlocked country in Southeastern Europe, known for its stunning lakes, mountains, and ancient history dating back to the time of Alexander the Great.",
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "Madagascar",
-    "flagImage": "flags/madagascar.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/madagascar.jpg",
     "capital": "Antananarivo",
     "currency": "Malagasy Ariary (MGA)",
     "description": "An island country in the Indian Ocean, known for its unique biodiversity, stunning landscapes, and rich cultural heritage.",
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "Malaysia",
-    "flagImage": "flags/malaysia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/malaysia.jpg",
     "capital": "Kuala Lumpur",
     "currency": "Malaysian Ringgit (MYR)",
     "description": "A country in Southeast Asia, known for its diverse cultures, stunning beaches, and as one of the world's most biodiverse regions.",
@@ -1309,7 +1309,7 @@
   },
   {
     "name": "Malawi",
-    "flagImage": "flags/malawi.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/malawi.jpg",
     "capital": "Lilongwe",
     "currency": "Malawian Kwacha (MWK)",
     "description": "A landlocked country in Southeast Africa, known for its stunning Lake Malawi, diverse wildlife, and rich cultural heritage.",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Maldives",
-    "flagImage": "flags/maldives.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/maldives.jpg",
     "capital": "Malé",
     "currency": "Maldivian Rufiyaa (MVR)",
     "description": "An island country in the Indian Ocean, known for its stunning atolls, crystal-clear waters, and luxurious beach resorts.",
@@ -1333,7 +1333,7 @@
   },
   {
     "name": "Mali",
-    "flagImage": "flags/mali.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/mali.jpg",
     "capital": "Bamako",
     "currency": "West African CFA Franc (XOF)",
     "description": "A landlocked country in West Africa, known for its ancient cities, rich cultural heritage, and stunning desert landscapes.",
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Malta",
-    "flagImage": "flags/malta.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/malta.jpg",
     "capital": "Valletta",
     "currency": "Euro (EUR)",
     "description": "An island country in the Mediterranean Sea, known for its rich history, stunning architecture, and vibrant culture.",
@@ -1357,7 +1357,7 @@
   },
   {
     "name": "Morocco",
-    "flagImage": "flags/morocco.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/morocco.jpg",
     "capital": "Rabat",
     "currency": "Moroccan Dirham (MAD)",
     "description": "A country in North Africa, known for its stunning Sahara Desert, ancient cities, and rich cultural heritage influenced by Arab, Berber, and European traditions.",
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "Mauritius",
-    "flagImage": "flags/mauritius.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/mauritius.jpg",
     "capital": "Port Louis",
     "currency": "Mauritian Rupee (MUR)",
     "description": "An island country in the Indian Ocean, known for its stunning beaches, diverse cultures, and as a popular tourist destination.",
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Mauritania",
-    "flagImage": "flags/mauritania.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/mauritania.jpg",
     "capital": "Nouakchott",
     "currency": "Mauritanian Ouguiya (MRU)",
     "description": "A country in Northwest Africa, known for its vast Sahara Desert landscapes, ancient cities, and rich cultural heritage.",
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Mexico",
-    "flagImage": "flags/mexico.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/mexico.jpg",
     "capital": "Mexico City",
     "currency": "Mexican Peso (MXN)",
     "description": "A country in North America, known for its rich cultural heritage, ancient civilizations, stunning beaches, and diverse landscapes.",
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "Micronesia",
-    "flagImage": "flags/micronesia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/micronesia.jpg",
     "capital": "Palikir",
     "currency": "United States Dollar (USD)",
     "description": "A country in the Western Pacific Ocean, consisting of over 600 islands, known for its diverse cultures, stunning atolls, and rich marine life.",
@@ -1417,7 +1417,7 @@
   },
   {
     "name": "Moldova",
-    "flagImage": "flags/moldova.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/moldova.jpg",
     "capital": "Chișinău",
     "currency": "Moldovan Leu (MDL)",
     "description": "A landlocked country in Eastern Europe, known for its rich cultural heritage, wine production, and stunning landscapes.",
@@ -1429,7 +1429,7 @@
   },
   {
     "name": "Monaco",
-    "flagImage": "flags/monaco.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/monaco.jpg",
     "capital": "Monaco City",
     "currency": "Euro (EUR)",
     "description": "A sovereign city-state on the French Riviera, known for its luxury, glamour, and as a playground for the wealthy.",
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Mongolia",
-    "flagImage": "flags/mongolia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/mongolia.jpg",
     "capital": "Ulaanbaatar",
     "currency": "Mongolian Tögrög (MNT)",
     "description": "A landlocked country in East Asia, known for its vast steppe grasslands, nomadic culture, and as the birthplace of Genghis Khan.",
@@ -1453,7 +1453,7 @@
   },
   {
     "name": "Montenegro",
-    "flagImage": "flags/montenegro.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/montenegro.jpg",
     "capital": "Podgorica",
     "currency": "Euro (EUR)",
     "description": "A country in Southeastern Europe, known for its stunning Adriatic coastline, rugged mountains, and rich cultural heritage.",
@@ -1465,7 +1465,7 @@
   },
   {
     "name": "Mozambique",
-    "flagImage": "flags/mozambique.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/mozambique.jpg",
     "capital": "Maputo",
     "currency": "Mozambican Metical (MZN)",
     "description": "A country in Southeastern Africa, known for its stunning beaches, rich wildlife, and vibrant culture.",
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Namibia",
-    "flagImage": "flags/namibia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/namibia.jpg",
     "capital": "Windhoek",
     "currency": "Namibian Dollar (NAD)",
     "description": "A country in Southern Africa, known for its vast deserts, stunning landscapes, and rich wildlife.",
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "Nauru",
-    "flagImage": "flags/nauru.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/nauru.jpg",
     "capital": "Yaren District",
     "currency": "Australian Dollar (AUD)",
     "description": "An island country in Micronesia, known for its rich phosphate deposits, and as one of the smallest nations in the world by population.",
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Nepal",
-    "flagImage": "flags/nepal.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/nepal.jpg",
     "capital": "Kathmandu",
     "currency": "Nepalese Rupee (NPR)",
     "description": "A landlocked country in South Asia known for its rich culture and the Himalayan mountain range.",
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Nicaragua",
-    "flagImage": "flags/nicaragua.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/nicaragua.jpg",
     "capital": "Managua",
     "currency": "Nicaraguan Córdoba (NIO)",
     "description": "A country in Central America known for its volcanic landscapes, lakes, and rich biodiversity.",
@@ -1525,7 +1525,7 @@
   },
   {
     "name": "Niger",
-    "flagImage": "flags/niger.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/niger.jpg",
     "capital": "Niamey",
     "currency": "West African CFA Franc (XOF)",
     "description": "A landlocked country in West Africa, known for its vast deserts and ancient cities.",
@@ -1537,7 +1537,7 @@
   },
   {
     "name": "Nigeria",
-    "flagImage": "flags/nigeria.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/nigeria.jpg",
     "capital": "Abuja",
     "currency": "Nigerian Naira (NGN)",
     "description": "The most populous country in Africa, known for its diverse cultures and natural resources.",
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "Norway",
-    "flagImage": "flags/norway.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/norway.jpg",
     "capital": "Oslo",
     "currency": "Norwegian Krone (NOK)",
     "description": "A Scandinavian country known for its stunning fjords, Northern Lights, and high standard of living.",
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "New Zealand",
-    "flagImage": "flags/newzealand.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/newzealand.jpg",
     "capital": "Wellington",
     "currency": "New Zealand Dollar (NZD)",
     "description": "An island country in the southwestern Pacific Ocean known for its breathtaking landscapes and unique Māori culture.",
@@ -1573,7 +1573,7 @@
   },
   {
     "name": "Oman",
-    "flagImage": "flags/oman.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/oman.jpg",
     "capital": "Muscat",
     "currency": "Omani Rial (OMR)",
     "description": "An Arab country in the southeastern coast of the Arabian Peninsula, known for its ancient forts and stunning natural beauty.",
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "Netherlands",
-    "flagImage": "flags/netherlands.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/netherlands.jpg",
     "capital": "Amsterdam",
     "currency": "Euro (EUR)",
     "description": "A European country known for its flat landscapes, tulips, windmills, and liberal culture.",
@@ -1597,7 +1597,7 @@
   },
   {
     "name": "Pakistan",
-    "flagImage": "flags/pakistan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/pakistan.jpg",
     "capital": "Islamabad",
     "currency": "Pakistani Rupee (PKR)",
     "description": "A South Asian country with a rich cultural heritage, diverse landscapes, and ancient historical sites.",
@@ -1609,7 +1609,7 @@
   },
   {
     "name": "Palau",
-    "flagImage": "flags/palau.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/palau.jpg",
     "capital": "Ngerulmud",
     "currency": "United States Dollar (USD)",
     "description": "An island country in the western Pacific Ocean, known for its pristine beaches, diving spots, and ancient Micronesian culture.",
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "Panama",
-    "flagImage": "flags/panama.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/panama.jpg",
     "capital": "Panama City",
     "currency": "Panamanian Balboa (PAB)",
     "description": "A country in Central America known for the iconic Panama Canal and its diverse natural landscapes.",
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "Papua New Guinea",
-    "flagImage": "flags/papuanewguinea.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/papuanewguinea.jpg",
     "capital": "Port Moresby",
     "currency": "Papua New Guinean Kina (PGK)",
     "description": "A country in Oceania known for its diverse cultures, stunning landscapes, and rich biodiversity.",
@@ -1645,7 +1645,7 @@
   },
   {
     "name": "Paraguay",
-    "flagImage": "flags/paraguay.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/paraguay.jpg",
     "capital": "Asunción",
     "currency": "Paraguayan Guaraní (PYG)",
     "description": "A landlocked country in South America known for its rich cultural heritage and the famous Iguazú Falls.",
@@ -1657,7 +1657,7 @@
   },
   {
     "name": "Peru",
-    "flagImage": "flags/peru.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/peru.jpg",
     "capital": "Lima",
     "currency": "Peruvian Sol (PEN)",
     "description": "A country in South America known for its ancient Inca heritage, diverse landscapes, and rich culinary traditions.",
@@ -1669,7 +1669,7 @@
   },
   {
     "name": "Poland",
-    "flagImage": "flags/poland.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/poland.jpg",
     "capital": "Warsaw",
     "currency": "Polish Złoty (PLN)",
     "description": "A country in Central Europe known for its rich history, vibrant cities, and stunning medieval architecture.",
@@ -1681,7 +1681,7 @@
   },
   {
     "name": "Portugal",
-    "flagImage": "flags/portugal.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/portugal.jpg",
     "capital": "Lisbon",
     "currency": "Euro (EUR)",
     "description": "A country in southwestern Europe known for its rich seafaring history, unique architecture, and world-famous wines.",
@@ -1693,7 +1693,7 @@
   },
   {
     "name": "United Kingdom",
-    "flagImage": "flags/unitedkingdom.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/unitedkingdom.jpg",
     "capital": "London",
     "currency": "Pound Sterling (GBP)",
     "description": "A sovereign country consisting of England, Scotland, Wales, and Northern Ireland, known for its global influence and rich cultural heritage.",
@@ -1705,7 +1705,7 @@
   },
   {
     "name": "Dominican Republic",
-    "flagImage": "flags/dominicanrepublic.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/dominicanrepublic.jpg",
     "capital": "Santo Domingo",
     "currency": "Dominican Peso (DOP)",
     "description": "A country located on the island of Hispaniola in the Caribbean, known for its beautiful beaches, music, and rich cultural traditions.",
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "Central African Republic",
-    "flagImage": "flags/centralafrica.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/centralafrica.jpg",
     "capital": "Bangui",
     "currency": "Central African CFA Franc (XAF)",
     "description": "A landlocked country in Central Africa known for its diverse wildlife, national parks, and rich cultural heritage.",
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "Czech Republic",
-    "flagImage": "flags/czechrepublic.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/czechrepublic.jpg",
     "capital": "Prague",
     "currency": "Czech Koruna (CZK)",
     "description": "A landlocked country in Central Europe known for its stunning architecture, rich history, and vibrant cultural scene.",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Republic of Congo",
-    "flagImage": "flags/republicofcongo.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/republicofcongo.jpg",
     "capital": "Brazzaville",
     "currency": "Central African CFA Franc (XAF)",
     "description": "A central African nation known for its diverse landscapes, ranging from rainforests to savannas, and rich natural resources.",
@@ -1753,7 +1753,7 @@
   },
   {
     "name": "Democratic Republic of Congo",
-    "flagImage": "flags/drcongo.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/drcongo.jpg",
     "capital": "Kinshasa",
     "currency": "Congolese Franc (CDF)",
     "description": "A vast country in Central Africa, rich in natural resources and home to a diverse array of wildlife, including the endangered mountain gorillas.",
@@ -1765,7 +1765,7 @@
   },
   {
     "name": "Rwanda",
-    "flagImage": "flags/rwanda.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/rwanda.jpg",
     "capital": "Kigali",
     "currency": "Rwandan Franc (RWF)",
     "description": "A small landlocked country in East Africa, known for its incredible biodiversity, including the famous mountain gorillas, and its efforts to promote reconciliation after the 1994 genocide.",
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "Romania",
-    "flagImage": "flags/romania.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/romania.jpg",
     "capital": "Bucharest",
     "currency": "Romanian Leu (RON)",
     "description": "A southeastern European country known for its beautiful Carpathian landscapes, rich cultural heritage, and historic cities like Bucharest and Brasov.",
@@ -1789,7 +1789,7 @@
   },
   {
     "name": "Russia",
-    "flagImage": "flags/russia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/russia.jpg",
     "capital": "Moscow",
     "currency": "Russian Ruble (RUB)",
     "description": "The largest country in the world, spanning across 11 time zones and two continents, known for its vast landscapes, rich history, and cultural diversity.",
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "Samoa",
-    "flagImage": "flags/samoa.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/samoa.jpg",
     "capital": "Apia",
     "currency": "Samoan Tala (WST)",
     "description": "A beautiful Pacific island country known for its stunning beaches, lush rainforests, and rich Polynesian culture.",
@@ -1813,7 +1813,7 @@
   },
   {
     "name": "Saint Kitts and Nevis",
-    "flagImage": "flags/stkittsandnevis.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/stkittsandnevis.jpg",
     "capital": "Basseterre",
     "currency": "East Caribbean Dollar (XCD)",
     "description": "A dual-island nation in the West Indies, known for its beautiful beaches, historic landmarks, and laid-back Caribbean lifestyle.",
@@ -1825,7 +1825,7 @@
   },
   {
     "name": "San Marino",
-    "flagImage": "flags/san-marino.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/san-marino.jpg",
     "capital": "San Marino",
     "currency": "Euro (EUR)",
     "description": "An enclaved microstate surrounded by Italy, known for its medieval architecture, stunning hilltop views, and being one of the oldest constitutional republics in the world.",
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Saint Vincent and the Grenadines",
-    "flagImage": "flags/stvincent.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/stvincent.jpg",
     "capital": "Kingstown",
     "currency": "East Caribbean Dollar (XCD)",
     "description": "A Caribbean island nation known for its beautiful beaches, lush landscapes, and rich cultural heritage.",
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "Saint Lucia",
-    "flagImage": "flags/stlucia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/stlucia.jpg",
     "capital": "Castries",
     "currency": "East Caribbean Dollar (XCD)",
     "description": "A gorgeous Caribbean island nation known for its stunning beaches, lush rainforests, and the iconic Pitons – two volcanic spires.",
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "São Tomé and Príncipe",
-    "flagImage": "flags/sao-tome-and-principe.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/sao-tome-and-principe.jpg",
     "capital": "São Tomé",
     "currency": "Dobra (STD)",
     "description": "An island nation off the western coast of Africa, known for its beautiful beaches, lush rainforests, and rich colonial history.",
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Senegal",
-    "flagImage": "flags/senegal.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/senegal.jpg",
     "capital": "Dakar",
     "currency": "West African CFA franc (XOF)",
     "description": "A West African nation known for its vibrant culture, stunning beaches, and rich history, including the famous Goree Island.",
@@ -1885,7 +1885,7 @@
   },
   {
     "name": "Serbia",
-    "flagImage": "flags/serbia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/serbia.jpg",
     "capital": "Belgrade",
     "currency": "Serbian Dinar (RSD)",
     "description": "A Balkan nation with a rich cultural heritage, stunning landscapes, and a vibrant capital city known for its nightlife.",
@@ -1897,7 +1897,7 @@
   },
   {
     "name": "Seychelles",
-    "flagImage": "flags/seychelles.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/seychelles.jpg",
     "capital": "Victoria",
     "currency": "Seychellois Rupee (SCR)",
     "description": "An archipelago of 115 islands in the Indian Ocean, known for its beautiful beaches, lush landscapes, and diverse marine life.",
@@ -1909,7 +1909,7 @@
   },
   {
     "name": "Sierra Leone",
-    "flagImage": "flags/sierra-leone.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/sierra-leone.jpg",
     "capital": "Freetown",
     "currency": "Sierra Leonean Leone (SLL)",
     "description": "A West African nation known for its beautiful beaches, rich cultural heritage, and stunning natural landscapes.",
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "Singapore",
-    "flagImage": "flags/singapore.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/singapore.jpg",
     "capital": "Singapore",
     "currency": "Singapore Dollar (SGD)",
     "description": "A city-state and island nation in Southeast Asia, known for its modern skyline, efficient infrastructure, and diverse culture.",
@@ -1933,7 +1933,7 @@
   },
   {
     "name": "Syria",
-    "flagImage": "flags/syria.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/syria.jpg",
     "capital": "Damascus",
     "currency": "Syrian Pound (SYP)",
     "description": "A Middle Eastern nation with a rich cultural heritage, ancient cities, and stunning landscapes, including the famous Krak des Chevaliers castle.",
@@ -1945,7 +1945,7 @@
   },
   {
     "name": "Somalia",
-    "flagImage": "flags/somalia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/somalia.jpg",
     "capital": "Mogadishu",
     "currency": "Somali Shilling (SOS)",
     "description": "A East African nation known for its stunning coastline, rich culture, and diverse landscapes, including the Cal Madow mountain range.",
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "Sri Lanka",
-    "flagImage": "flags/sri-lanka.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/sri-lanka.jpg",
     "capital": "Sri Jayawardenepura Kotte",
     "currency": "Sri Lankan Rupee (LKR)",
     "description": "An island nation in the Indian Ocean, known for its stunning beaches, ancient cities, rich culture, and diverse landscapes.",
@@ -1969,7 +1969,7 @@
   },
   {
     "name": "Swaziland/Eswatini",
-    "flagImage": "flags/Swaziland.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/Swaziland.jpg",
     "capital": "Mbabane",
     "currency": "Lilangeni (SZL)",
     "description": "A landlocked kingdom in Southern Africa, known for its stunning landscapes, rich cultural heritage, and diverse wildlife.",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "South Africa",
-    "flagImage": "flags/south-africa.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/south-africa.jpg",
     "capital": "Pretoria, Cape Town, Bloemfontein",
     "currency": "South African Rand (ZAR)",
     "description": "A nation at the southern tip of Africa, known for its diverse landscapes, rich wildlife, and vibrant culture.",
@@ -1993,7 +1993,7 @@
   },
   {
     "name": "South Sudan",
-    "flagImage": "flags/south-sudan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/south-sudan.jpg",
     "capital": "Juba",
     "currency": "South Sudanese Pound (SSP)",
     "description": "A landlocked country in East-Central Africa, known for its rich cultural heritage, diverse wildlife, and stunning landscapes.",
@@ -2005,7 +2005,7 @@
   },
   {
     "name": "Sudan",
-    "flagImage": "flags/sudan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/sudan.jpg",
     "capital": "Khartoum",
     "currency": "Sudanese Pound (SDG)",
     "description": "A country in Northeast Africa, known for its ancient history, rich culture, and the iconic Nile River.",
@@ -2017,7 +2017,7 @@
   },
   {
     "name": "Sweden",
-    "flagImage": "flags/sweden.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/sweden.jpg",
     "capital": "Stockholm",
     "currency": "Swedish Krona (SEK)",
     "description": "A Scandinavian country known for its stunning landscapes, modern cities, and high quality of life.",
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "Switzerland",
-    "flagImage": "flags/switzerland.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/switzerland.jpg",
     "capital": "Bern",
     "currency": "Swiss Franc (CHF)",
     "description": "A mountainous country in Europe, known for its stunning Alps, pristine lakes, and vibrant cities.",
@@ -2041,7 +2041,7 @@
   },
   {
     "name": "Suriname",
-    "flagImage": "flags/suriname.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/suriname.jpg",
     "capital": "Paramaribo",
     "currency": "Surinamese Dollar (SRD)",
     "description": "A country on the northeastern coast of South America, known for its diverse culture, lush rainforests, and stunning natural landscapes.",
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "Thailand",
-    "flagImage": "flags/thailand.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/thailand.jpg",
     "capital": "Bangkok",
     "currency": "Thai Baht (THB)",
     "description": "A Southeast Asian country known for its stunning beaches, ancient temples, and vibrant culture.",
@@ -2065,7 +2065,7 @@
   },
   {
     "name": "Tanzania",
-    "flagImage": "flags/tanzania.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/tanzania.jpg",
     "capital": "Dodoma",
     "currency": "Tanzanian Shilling (TZS)",
     "description": "An East African country known for its stunning natural landscapes, including the iconic Serengeti National Park and Mount Kilimanjaro.",
@@ -2077,7 +2077,7 @@
   },
   {
     "name": "Tajikistan",
-    "flagImage": "flags/tajikistan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/tajikistan.jpg",
     "capital": "Dushanbe",
     "currency": "Tajikistani Somoni (TJS)",
     "description": "A landlocked country in Central Asia, known for its stunning mountains, ancient cities, and rich cultural heritage.",
@@ -2089,7 +2089,7 @@
   },
   {
     "name": "East Timor",
-    "flagImage": "flags/east-timor.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/east-timor.jpg",
     "capital": "Dili",
     "currency": "United States Dollar (USD)",
     "description": "A Southeast Asian country known for its stunning beaches, rugged landscapes, and rich cultural heritage.",
@@ -2101,7 +2101,7 @@
   },
   {
     "name": "Togo",
-    "flagImage": "flags/togo.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/togo.jpg",
     "capital": "Lomé",
     "currency": "West African CFA franc (XOF)",
     "description": "A West African nation known for its stunning beaches, vibrant markets, and rich cultural heritage.",
@@ -2113,7 +2113,7 @@
   },
   {
     "name": "Tonga",
-    "flagImage": "flags/tonga.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/tonga.jpg",
     "capital": "Nukuʻalofa",
     "currency": "Tongan paʻanga (TOP)",
     "description": "A Polynesian country in the southern Pacific Ocean, known for its stunning beaches, coral reefs, and rich culture.",
@@ -2125,7 +2125,7 @@
   },
   {
     "name": "Trinidad and Tobago",
-    "flagImage": "flags/trinidad-and-tobago.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/trinidad-and-tobago.jpg",
     "capital": "Port of Spain",
     "currency": "Trinidad and Tobago Dollar (TTD)",
     "description": "A twin-island nation in the Caribbean, known for its vibrant culture, stunning beaches, and rich biodiversity.",
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "Tunisia",
-    "flagImage": "flags/tunisia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/tunisia.jpg",
     "capital": "Tunis",
     "currency": "Tunisian Dinar (TND)",
     "description": "A North African country known for its ancient ruins, stunning Mediterranean beaches, and vibrant culture.",
@@ -2149,7 +2149,7 @@
   },
   {
     "name": "Turkmenistan",
-    "flagImage": "flags/turkmenistan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/turkmenistan.jpg",
     "capital": "Ashgabat",
     "currency": "Turkmenistan Manat (TMT)",
     "description": "A Central Asian country known for its ancient cities, stunning deserts, and rich cultural heritage.",
@@ -2161,7 +2161,7 @@
   },
   {
     "name": "Türkiye",
-    "flagImage": "flags/turkiye.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/turkiye.jpg",
     "capital": "Ankara",
     "currency": "Turkish Lira (TRY)",
     "description": "A transcontinental country spanning Europe and Asia, known for its rich history, stunning landscapes, and vibrant culture.",
@@ -2173,7 +2173,7 @@
   },
   {
     "name": "Tuvalu",
-    "flagImage": "flags/tuvalu.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/tuvalu.jpg",
     "capital": "Funafuti",
     "currency": "Australian Dollar (AUD), Tuvaluan Dollar (TVD)",
     "description": "A Polynesian island country in the Pacific Ocean, known for its stunning atolls, crystal-clear waters, and rich marine life.",
@@ -2185,7 +2185,7 @@
   },
   {
     "name": "Ukraine",
-    "flagImage": "flags/ukraine.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/ukraine.jpg",
     "capital": "Kyiv",
     "currency": "Ukrainian Hryvnia (UAH)",
     "description": "A country in Eastern Europe, known for its rich cultural heritage, stunning architecture, and vibrant cities.",
@@ -2197,7 +2197,7 @@
   },
   {
     "name": "Uganda",
-    "flagImage": "flags/uganda.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/uganda.jpg",
     "capital": "Kampala",
     "currency": "Ugandan Shilling (UGX)",
     "description": "An East African country known for its stunning landscapes, diverse wildlife, and rich cultural heritage.",
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "Uruguay",
-    "flagImage": "flags/uruguay.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/uruguay.jpg",
     "capital": "Montevideo",
     "currency": "Uruguayan Peso (UYU)",
     "description": "A South American country known for its stunning beaches, vibrant culture, and rich gaucho traditions.",
@@ -2221,7 +2221,7 @@
   },
   {
     "name": "Uzbekistan",
-    "flagImage": "flags/uzbekistan.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/uzbekistan.jpg",
     "capital": "Tashkent",
     "currency": "Uzbekistani Som (UZS)",
     "description": "A Central Asian nation known for its ancient cities, stunning Islamic architecture, and rich cultural heritage.",
@@ -2233,7 +2233,7 @@
   },
   {
     "name": "Vanuatu",
-    "flagImage": "flags/vanuatu.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/vanuatu.jpg",
     "capital": "Port Vila",
     "currency": "Vatu (VUV)",
     "description": "A Pacific island nation known for its stunning beaches, vibrant cultures, and rich biodiversity.",
@@ -2245,7 +2245,7 @@
   },
   {
     "name": "Vatican City",
-    "flagImage": "flags/vatican-city.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/vatican-city.jpg",
     "capital": "Vatican City",
     "currency": "Euro (EUR)",
     "description": "An independent city-state surrounded by Rome, Italy, known for its rich religious history and the iconic St. Peter's Basilica.",
@@ -2257,7 +2257,7 @@
   },
   {
     "name": "Venezuela",
-    "flagImage": "flags/venezuela.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/venezuela.jpg",
     "capital": "Caracas",
     "currency": "Venezuelan Bolívar Soberano (VES)",
     "description": "A South American country known for its stunning landscapes, rich biodiversity, and vibrant cultural heritage.",
@@ -2269,7 +2269,7 @@
   },
   {
     "name": "Vietnam",
-    "flagImage": "flags/vietnam.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/vietnam.jpg",
     "capital": "Hanoi",
     "currency": "Vietnamese Dong (VND)",
     "description": "A Southeast Asian country known for its stunning landscapes, rich culture, and vibrant cities.",
@@ -2281,7 +2281,7 @@
   },
   {
     "name": "Yemen",
-    "flagImage": "flags/yemen.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/yemen.jpg",
     "capital": "Sana'a",
     "currency": "Yemeni Rial (YER)",
     "description": "A Middle Eastern country known for its ancient cities, stunning landscapes, and rich cultural heritage.",
@@ -2293,7 +2293,7 @@
   },
   {
     "name": "Djibouti",
-    "flagImage": "flags/djibouti.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/djibouti.jpg",
     "capital": "Djibouti City",
     "currency": "Djiboutian Franc (DJF)",
     "description": "A country in the Horn of Africa, known for its stunning landscapes, rich cultural heritage, and strategic location.",
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "Zambia",
-    "flagImage": "flags/zambia.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/zambia.jpg",
     "capital": "Lusaka",
     "currency": "Zambian Kwacha (ZMW)",
     "description": "A landlocked country in Southern Africa, known for its stunning natural landscapes, rich wildlife, and vibrant culture.",
@@ -2317,7 +2317,7 @@
   },
   {
     "name": "Zimbabwe",
-    "flagImage": "flags/zimbabwe.jpg",
+    "flagImage": "https://ivanr3d.com/assets/flags/zimbabwe.jpg",
     "capital": "Harare",
     "currency": "Zimbabwe Dollar (ZWL)",
     "description": "A landlocked country in Southern Africa, known for its stunning landscapes, rich wildlife, and ancient ruins.",
