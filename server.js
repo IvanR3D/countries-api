@@ -1,9 +1,12 @@
 const express = require('express');
+const cors = require('cors'); // Import the cors package
 const app = express();
 const countries = require('./countries.json');
 
 // Middleware to parse JSON request bodies
 app.use(express.json());
+// Use the cors middleware
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
@@ -13,7 +16,6 @@ app.get('/', (req, res) => {
 app.get('/data', (req, res) => {
   const { continent, random, country } = req.query;
   let filteredCountries = [...countries];
-
   // Filter by continent
   if (continent) {
     filteredCountries = filteredCountries.filter(
